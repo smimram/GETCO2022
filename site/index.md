@@ -2,6 +2,8 @@
 title: GETCO 2022 -- 12th International Conference on Geometric and Topological Methods in Computer Science
 ...
 
+<image src="http://www.lix.polytechnique.fr/~uli/getco20/lakeX3.jpg" width="100%"/>
+
 GETCO 2022 will take place in Paris from May 30th to June 3rd 2022.
 
 The Geometric and Topological Methods in Computer Science (GETCO) conference
