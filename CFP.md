@@ -4,7 +4,7 @@ CALL FOR CONTRIBUTIONS
   	 Geometric and Topological Methods in Computer Science
                               GETCO 2022
 
-                    30 May to 3 June 2022, France
+                    30 May to 3 June 2022, Paris, France
          http://www.lix.polytechnique.fr/~smimram/getco22/
 
 The Geometric and Topological Methods in Computer Science (GETCO) conference
@@ -28,16 +28,16 @@ published at another conference, etc.
 GETCO will have no formal proceedings, but should be followed by a special issue
 dedicated to selected papers from the conference.
 
-IMPORTANT DATES
+# IMPORTANT DATES
 
-  Submission:    1 June 2020
-  Notification:  1 July 2020
+- Submission:    15 March 2022
+- Notification:  15 April 2022
 
-INVITED SPEAKERS
+# INVITED SPEAKERS
 
 TBC
 
-HISTORY
+# HISTORY
 
 The first GETCO conference was held in Aalborg in 1999. Applications of
 algebraic topology in concurrency was a new subject, fostered by seminal papers
@@ -63,20 +63,28 @@ systems is now a mature subject, widespread and with impact in many fields.  The
 10th edition, which took place in Oaxaca, Mexico in 2018, expanded further to
 neuroscience and learning applications.
 
-SUBMISSION INSTRUCTIONS
+# SUBMISSION INSTRUCTIONS
 
 Please send your contribution to
 
-  getco20-info@lix.polytechnique.fr
+...........
 
 by 1 June 2020.
 
-ORGANIZING COMMITTEE
+## SCIENTIFIC COMMITTEE
 
-    Uli Fahrenberg, Ecole polytechnique, France
-    Lisbeth Fajstrup, Aalborg University, Denmark
-    Dmitry Feichtner-Kozlov, University of Bremen, Germany
-    Eric Finster, University Paris Diderot, France
-    Eric Goubault, Ecole polytechnique, France
-    Sergio Rajsbaum, Universidad Nacional Autonoma de Mexico
-    Martin Raussen, Aalborg University, Denmark
+- Ulrich Fahrenberg, ENSTA, France
+- Lisbeth Fajstrup, Aalborg University, Denmark
+- Eric Goubault, École polytechnique, France
+- Samuel Mimram, École polytechnique, France
+- Marian Mrozek, Jagiellonian University, Poland
+- Steve Oudot, École polytechnique, France
+- Sergio Rajsbaum, Universidad Nacional Autonoma de Mexico
+- Martin Raussen, Aalborg University, Denmark
+
+## ORGANIZING COMMITTEE
+
+- Cameron Calk
+- Eric Goubault
+- Roman Kniazev
+- Samuel Mimram
