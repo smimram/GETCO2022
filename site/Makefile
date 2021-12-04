@@ -1,7 +1,7 @@
 all: index.html
 
 upload: index.html
-	scp $(wildcard *.html *.css) lix:.webdir/getco22/
+	scp $(wildcard *.html *.css *.txt) lix:.webdir/getco22/
 
 ci:
 	git ci . -m "Site web."
