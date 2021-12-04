@@ -25,6 +25,15 @@ Special emphasis will be on topological methods in
 - Homotopy type theory
 - Rewriting
 
+## Submissions
+
+The conference will feature contributed talks. Important dates are
+
+- submission: 15 March 2022
+- notification: 15 April 2022
+
+Submission procedure will be announced soon.
+
 ## Tutorial Speakers
 
 TBA
