@@ -6,3 +6,4 @@ upload:
 ci:
 	git ci . -m "Worked on GETCO."
 	git push
+	$(MAKE) upload
