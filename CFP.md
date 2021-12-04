@@ -65,11 +65,11 @@ neuroscience and learning applications.
 
 # SUBMISSION INSTRUCTIONS
 
-Please send your contribution to
+Please submit your contribution at
 
-...........
+https://easychair.org/conferences/?conf=getco2022
 
-by 1 June 2020.
+by 15 March 2022. There is no imposed format for the submissions.
 
 ## SCIENTIFIC COMMITTEE
 
