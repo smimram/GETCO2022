@@ -64,7 +64,8 @@ Through Combinatorial Topology and Directed Algebraic Topology and Concurrency;
 some of many indications that applications of algebraic topology to concurrent
 systems is now a mature subject, widespread and with impact in many fields.  The
 10th edition, which took place in Oaxaca, Mexico in 2018, expanded further to
-neuroscience and learning applications.
+neuroscience and learning applications. The 11th edition was originally planned
+in 2020 in Palaiseau, but had to be delayed due to the pandemia.
 
 # SUBMISSION INSTRUCTIONS
 
