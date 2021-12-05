@@ -83,14 +83,6 @@ learning applications. The 11th edition was [originally planned in
 2020](http://www.lix.polytechnique.fr/~uli/getco20/) in Palaiseau, but had to be
 delayed due to the pandemia.
 
-## Sponsors
-
-TBA
-
-## Contact
-
-TBA
-
 ## Organization
 
 ### Scientific committee
@@ -110,3 +102,8 @@ TBA
 - Eric Goubault
 - Roman Kniazev
 - Samuel Mimram
+
+
+## Sponsors
+
+TBA
