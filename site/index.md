@@ -1,5 +1,5 @@
 ---
-title: GETCO 2022 -- 12th International Conference on Geometric and Topological Methods in Computer Science
+title: GETCO 2022 -- 11th International Conference on Geometric and Topological Methods in Computer Science
 ...
 
 <image src="http://www.lix.polytechnique.fr/~uli/getco20/lakeX3.jpg" width="100%"/>
