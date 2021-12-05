@@ -30,8 +30,9 @@ The conference will feature contributed talks. Important dates are
 - notification: 15 April 2022
 
 The submissions should be [uploaded on the dedicated easychair
-page](https://easychair.org/conferences/?conf=getco2022). There is no imposed
-format.
+page](https://easychair.org/conferences/?conf=getco2022).
+
+There is no imposed format.
 
 ## Tutorial Speakers
 
