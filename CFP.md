@@ -11,14 +11,17 @@ The Geometric and Topological Methods in Computer Science (GETCO) conference
 series focus on applications of algebraic topology in computer science with
 special emphasis in concurrency, distributed computing, networking and other
 situations related to systems of sequential computers that communicate with each
-other.  It is aimed at mathematicians and computer scientists working in or
-interested in these subjects, including researchers and graduate students.  The
+other. It is aimed at mathematicians and computer scientists working in or
+interested in these subjects, including researchers and graduate students. The
 aim of the conference is to exchange ideas and to initiate or expand research
 collaborations.
 
-Special emphasis is on topological methods in Concurrency, Distributed
-Computing, Directed algebraic topology, Robotics, Data analysis, Homotopy Type
-theory, and Rewriting.
+Special emphasis will be on
+
+ - directed topology, concurrency and distributed computing
+ - geometric aspects of logics, higher categories and rewriting
+ - dynamical/hybrid/control systems and robotics
+ - foundations of topological data analysis 
 
 We are calling for presentations of original, unfinished, already published, or
 otherwise interesting work within the topics of the GETCO conferences. The

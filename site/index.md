@@ -15,15 +15,12 @@ interested in these subjects, including researchers and graduate students. The
 aim of the conference is to exchange ideas and to initiate or expand research
 collaborations.
 
-Special emphasis will be on topological methods in
+Special emphasis will be on
 
-- Concurrency
-- Distributed Computing
-- Directed algebraic topology
-- Robotics
-- Data analysis
-- Homotopy type theory
-- Rewriting
+ - directed topology, concurrency and distributed computing
+ - geometric aspects of logics, higher categories and rewriting
+ - dynamical/hybrid/control systems and robotics
+ - foundations of topological data analysis 
 
 ## Submissions
 
@@ -95,14 +92,14 @@ TBA
 
 ### Scientific committee
 
-- Ulrich Fahrenberg
-- Lisbeth Fajstrup
-- Eric Goubault
-- Samuel Mimram
-- Marian Mrozek
-- Steve Oudot
-- Sergio Rajsbaum
-- Martin Raussen
+- [Ulrich Fahrenberg](http://www.lix.polytechnique.fr/Labo/Ulrich.Fahrenberg/), ENSTA, France
+- [Lisbeth Fajstrup](https://people.math.aau.dk/~fajstrup/), Aalborg University, Denmark
+- [Eric Goubault](http://www.lix.polytechnique.fr/Labo/Eric.Goubault/), École polytechnique, France
+- [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/), École polytechnique, France
+- [Marian Mrozek](https://ww2.ii.uj.edu.pl/~mrozek/), Jagiellonian University, Poland
+- [Steve Oudot](https://geometrica.saclay.inria.fr/team/Steve.Oudot/), École polytechnique, France
+- [Sergio Rajsbaum](https://www.matem.unam.mx/~rajsbaum/), Universidad Nacional Autonoma de Mexico
+- [Martin Raussen](https://people.math.aau.dk/~raussen/), Aalborg University, Denmark
 
 ### Organizing committee
 
