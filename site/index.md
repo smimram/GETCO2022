@@ -19,10 +19,10 @@ collaborations.
 
 Special emphasis will be on
 
- - directed topology, concurrency and distributed computing
- - geometric aspects of logics, higher categories and rewriting
- - dynamical/hybrid/control systems and robotics
- - foundations of topological data analysis 
+- directed topology, concurrency and distributed computing
+- geometric aspects of logics, higher categories and rewriting
+- dynamical/hybrid/control systems and robotics
+- topological persistence theory
 
 ## Tutorial Speakers
 
