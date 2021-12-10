@@ -77,7 +77,7 @@ by 15 March 2022. There is no imposed format for the submissions.
 
 ## SCIENTIFIC COMMITTEE
 
-- Ulrich Fahrenberg, ENSTA, France
+- Ulrich Fahrenberg, EPITA, France
 - Lisbeth Fajstrup, Aalborg University, Denmark
 - Eric Goubault, École polytechnique, France
 - Samuel Mimram, École polytechnique, France

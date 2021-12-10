@@ -89,7 +89,7 @@ delayed due to the pandemia.
 
 ### Scientific committee
 
-- [Ulrich Fahrenberg](http://www.lix.polytechnique.fr/Labo/Ulrich.Fahrenberg/), ENSTA, France
+- [Ulrich Fahrenberg](http://www.lix.polytechnique.fr/Labo/Ulrich.Fahrenberg/), EPITA, France
 - [Lisbeth Fajstrup](https://people.math.aau.dk/~fajstrup/), Aalborg University, Denmark
 - [Eric Goubault](http://www.lix.polytechnique.fr/Labo/Eric.Goubault/), École polytechnique, France
 - [Samuel Mimram](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/), École polytechnique, France
