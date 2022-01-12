@@ -26,11 +26,29 @@ Special emphasis will be on
 
 ## Tutorial Speakers
 
-TBA
+The list should be completed later on.
+
+- _Directed topology, concurrency and distributed computing_
+  - Jonathan Barnak
+  - Thomas Wanner
+- _Geometric aspects of logics, higher categories and rewriting_
+  - Amar Hadzihasanovic
+  - Paige North
+- _Dynamical/hybrid/control systems and robotics_
+- _Topological persistence theory_
+  - Gregory Ginot
 
 ## Invited Speakers
 
-TBA
+The list should be completed later on.
+
+- _Directed topology, concurrency and distributed computing_
+  - Krzysztof Ziemianski
+- _Geometric aspects of logics, higher categories and rewriting_
+- _Dynamical/hybrid/control systems and robotics_
+  - Peter Giest
+  - Claudia Landi
+- _Topological persistence theory_
 
 ## Submissions
 
