@@ -28,27 +28,47 @@ Special emphasis will be on
 
 The list should be completed later on.
 
-- _Directed topology, concurrency and distributed computing_
-  - Jonathan Barnak
-  - Thomas Wanner
-- _Geometric aspects of logics, higher categories and rewriting_
-  - Amar Hadzihasanovic
-  - Paige North
-- _Dynamical/hybrid/control systems and robotics_
-- _Topological persistence theory_
-  - Gregory Ginot
+### Directed topology, concurrency and distributed computing
+
+- Jonathan Barnak
+- Thomas Wanner
+
+### Geometric aspects of logics, higher categories and rewriting
+
+- Amar Hadzihasanovic
+- Paige North
+
+### Dynamical/hybrid/control systems and robotics
+
+### Topological persistence theory
+
+- Gregory Ginot
 
 ## Invited Speakers
 
 The list should be completed later on.
 
-- _Directed topology, concurrency and distributed computing_
-  - Krzysztof Ziemianski
-- _Geometric aspects of logics, higher categories and rewriting_
-- _Dynamical/hybrid/control systems and robotics_
-  - Peter Giest
-  - Claudia Landi
-- _Topological persistence theory_
+### Directed topology, concurrency and distributed computing
+
+Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
+
+Higher dimensional automata (HDA) are precubical sets with some additional
+structure. They serve as a model for concurrency, which can be examined with
+topological methods. Executions of an HDA can be regarded both topologically, as
+certain (directed) paths on its geometric realization, and combinatorially, as
+sequences of its cells. In my talk I will compare these two approaches and
+present a nice "permutahedral" model that unifies them. This model can be
+applied to construct some invariants of HDA and to show connections between
+executions of HDAs and braid groups.
+
+### Geometric aspects of logics, higher categories and rewriting
+
+### Dynamical/hybrid/control systems and robotics
+
+- Peter Giest
+- Claudia Landi
+
+### Topological persistence theory
 
 ## Submissions
 
