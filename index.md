@@ -30,17 +30,17 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
-<!--
-- Jonathan Barnak
-- Thomas Wanner
--->
-
 ### Geometric aspects of logics, higher categories and rewriting
 
 - Amar Hadzihasanovic
 - Paige North
 
 ### Dynamical/hybrid/control systems and robotics
+
+<!--
+- Jonathan Barnak
+- Thomas Wanner
+-->
 
 ### Topological persistence theory
 
