@@ -32,8 +32,22 @@ The list should be completed later on.
 
 ### Geometric aspects of logics, higher categories and rewriting
 
-- Amar Hadzihasanovic
-- Paige North
+Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
+
+In the polygraph approach to rewriting, the fundamental structures of rewriting
+theory are “directed complexes” whose cells have an orientation in all higher
+dimensions. Unfortunately, the polygraph model of “directed spaces” does not
+admit a sound “orientation-forgetting” interpretation in a standard model of
+spaces, which would turn rewrites into homotopies in the expected way.  In this
+tutorial talk, I will give an introduction to diagrammatic sets, an alternative
+model that is provably sound for homotopical algebra, while remaining close in
+practice to the polygraph model. I will briefly discuss its combinatorial
+underpinning and interpretation in topological spaces, then focus on practical
+aspects and differences from the polygraph model. If there is time, I will also
+discuss the “smash Gray product” construction of pointed diagrammatic sets and
+its intriguing application to higher algebra.
+
+Paige North
 
 ### Dynamical/hybrid/control systems and robotics
 
