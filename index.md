@@ -94,7 +94,24 @@ executions of HDAs and braid groups.
 
 ### Dynamical/hybrid/control systems and robotics
 
-#### Peter Giest
+#### Peter Giest (University of Sussex): _Computation of Lyapunov functions and contraction metrics for dynamical systems_
+ 
+We consider a general dynamical system, either continuous-time, given by
+solutions of an ordinary differential equation, or discrete-time, given by the
+iteration of a map. The long-term behaviour can be characterised by attractors
+and their corresponding basins of attraction. Examples of attractors are
+equilibria or periodic orbits, and the corresponding basins of attraction
+consist of all initial points which converge towards them. Tools to determine
+the basin of attraction include (complete) Lyapunov functions and contraction
+metrics. A Lyapunov function is a scalar-valued function which decreases along
+solutions; attractors are local minima and their basin of attraction can be
+determined using sublevel sets. A contraction metric is a metric such that the
+distance between adjacent solutions decreases with respect to the metric, and
+thus they share the same long-term behaviour. In this talk I will discuss the
+numerical construction of Lyapunov functions and contraction metrics. In
+particular, I will present computational methods using meshfree collocation with
+Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
+functions, compare them and illustrate them with examples.
 
 #### Claudia Landi
 
