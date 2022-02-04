@@ -32,6 +32,19 @@ The list should be completed later on.
 
 ### Geometric aspects of logics, higher categories and rewriting
 
+Eric Finster: _Introduction to Homotopy Type Theory_
+
+In this talk, I will summarize some of the main intuitions of the homotopical
+interpretation of dependent type theory, introduced by Awodey and Warren and
+independently by Voevodsky around 15 years ago. Roughly speaking, this
+perspective reinterprets type theory not as a theory of constructive sets, but
+rather as a theory of constructive spaces up to homotopy equivalence.  In doing
+so, it explains many of the counterintuitive aspects of the behavior of equality
+in type theory and has led to the introduction of many new ideas, both
+meta-theoretical, for example in the form of previously unknown models, as well
+as practical in the form of new computational principles which have since then
+been incorporated into modern proof assistants.
+
 Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
 
 In the polygraph approach to rewriting, the fundamental structures of rewriting
