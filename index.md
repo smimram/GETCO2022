@@ -32,7 +32,7 @@ The list should be completed later on.
 
 ### Geometric aspects of logics, higher categories and rewriting
 
-Eric Finster: _Introduction to Homotopy Type Theory_
+#### Eric Finster: _Introduction to Homotopy Type Theory_
 
 In this talk, I will summarize some of the main intuitions of the homotopical
 interpretation of dependent type theory, introduced by Awodey and Warren and
@@ -45,7 +45,7 @@ meta-theoretical, for example in the form of previously unknown models, as well
 as practical in the form of new computational principles which have since then
 been incorporated into modern proof assistants.
 
-Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
+#### Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
 
 In the polygraph approach to rewriting, the fundamental structures of rewriting
 theory are “directed complexes” whose cells have an orientation in all higher
@@ -60,7 +60,7 @@ aspects and differences from the polygraph model. If there is time, I will also
 discuss the “smash Gray product” construction of pointed diagrammatic sets and
 its intriguing application to higher algebra.
 
-Paige North
+#### Paige North
 
 ### Dynamical/hybrid/control systems and robotics
 
@@ -71,7 +71,7 @@ Paige North
 
 ### Topological persistence theory
 
-- Gregory Ginot
+#### Gregory Ginot
 
 ## Invited Speakers
 
@@ -79,7 +79,7 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
-Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
+#### Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
 
 Higher dimensional automata (HDA) are precubical sets with some additional
 structure. They serve as a model for concurrency, which can be examined with
@@ -94,8 +94,9 @@ executions of HDAs and braid groups.
 
 ### Dynamical/hybrid/control systems and robotics
 
-- Peter Giest
-- Claudia Landi
+#### Peter Giest
+
+#### Claudia Landi
 
 ### Topological persistence theory
 
