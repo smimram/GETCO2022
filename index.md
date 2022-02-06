@@ -117,6 +117,23 @@ functions, compare them and illustrate them with examples.
 
 ### Topological persistence theory
 
+#### Magnus Botnan: _A mini-survey of multiparameter persistent homology_
+
+Persistent homology associates a family of barcodes to a filtered topological
+space. The best-known example arises when applying homology in low dimensions to
+the filtered Rips complex built on a finite metric space. There are, however,
+many situations in which it is desirable to filter a topological space by
+multiple functions, and while one can apply homology to multifiltration in a
+straightforward way, the notion of a barcode does not generalize from the
+single-parameter setting. Given that nearly all the theory in the
+single-parameter setting is built upon the idea of a barcode, the non-existence
+of a barcode has been a major obstacle in the development of multiparameter
+persistent homology. However, in recent years there has been a surge in activity
+resulting in a range of new invariants and applications in the multiparameter
+setting. In this talk, I will discuss some of these. The talk will be based on a
+recent survey on multiparameter persistent homology that I have coauthored with
+Michael Lesnick.
+
 ## Submissions
 
 The conference will feature contributed talks. Important dates are
