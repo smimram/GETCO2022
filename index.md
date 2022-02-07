@@ -60,7 +60,23 @@ aspects and differences from the polygraph model. If there is time, I will also
 discuss the “smash Gray product” construction of pointed diagrammatic sets and
 its intriguing application to higher algebra.
 
-#### Paige North
+#### Paige North: _Directed homotopy type theory_
+
+In this talk, I will describe the development of a directed homotopy type
+theory. The aim is to capture (higher) categories and directed topological
+spaces as models of the theory, and thus use it to study phenomena (such as
+concurrency and rewriting) of interest to this community. To get this type
+theory, the identity type of Martin-Löf is modified to produce a "directed"
+identity type. The terms of this new directed identity type behave analogously
+to those of the usual Martin-Löf identity type: they can be composed, but not
+inverted. This has semantics in the category of categories in which the directed
+identity type is interpreted by hom-sets. I will also talk about
+work-in-progress in which techniques of modal type theory are used to modify the
+underlying syntax to allow for different kinds of transport: forward along
+directed identities, backward along directed identities, and along (usual,
+undirected) identities. These are reflected in the semantics, for example in
+Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
+isofibrations.
 
 ### Dynamical/hybrid/control systems and robotics
 
