@@ -129,7 +129,23 @@ particular, I will present computational methods using meshfree collocation with
 Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
 functions, compare them and illustrate them with examples.
 
-#### Claudia Landi
+#### Claudia Landi: _Computing the matching distance of multi-parameter persistence from Morse critical values_
+
+Multi-parameter persistence modules are promising tools in topological data
+analysis of multivariate data that still need to maintain their promises due to
+their heavy computational and theoretical intricacies. They are defined by
+applying homology to multi-filtered cell complexes. On the other hand, discrete
+Morse theory is a well-understood theory that permits reducing a cell complex to
+the critical cells of a gradient vector field. Critical cells carry all the
+relevant homological information about the input data. A connection between the
+two theories comes from the fact that the entrance values of critical cells are
+sufficient to determine the fibered rank invariant of multi-parameter
+persistence. In this talk, after reviewing such a connection, I'll consider the
+matching distance to compare the rank invariant of two persistence modules.
+I'll show recent results about the exact computation of the matching distance
+using only the geometric patterns of the entrance values of the critical cells
+in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
+Hacker, and Barbara Mahler.
 
 ### Topological persistence theory
 
