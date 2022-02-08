@@ -254,7 +254,3 @@ delayed due to the pandemia.
 - Eric Goubault
 - Roman Kniazev
 - Samuel Mimram
-
-## Sponsors
-
-TBA
