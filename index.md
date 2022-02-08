@@ -38,7 +38,7 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
-#### TBA
+#### Uli Fahrenberg
 
 ### Geometric aspects of logics, higher categories and rewriting
 
