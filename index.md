@@ -82,10 +82,9 @@ isofibrations.
 
 ### Dynamical/hybrid/control systems and robotics
 
-<!--
-- Jonathan Barnak
-- Thomas Wanner
--->
+#### Jonathan Barnak
+
+#### Thomas Wanner
 
 ### Topological persistence theory
 
@@ -112,7 +111,7 @@ executions of HDAs and braid groups.
 
 ### Dynamical/hybrid/control systems and robotics
 
-#### Peter Giest (University of Sussex): _Computation of Lyapunov functions and contraction metrics for dynamical systems_
+#### Peter Giesl (University of Sussex): _Computation of Lyapunov functions and contraction metrics for dynamical systems_
  
 We consider a general dynamical system, either continuous-time, given by
 solutions of an ordinary differential equation, or discrete-time, given by the
@@ -130,24 +129,6 @@ numerical construction of Lyapunov functions and contraction metrics. In
 particular, I will present computational methods using meshfree collocation with
 Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
 functions, compare them and illustrate them with examples.
-
-#### Claudia Landi: _Computing the matching distance of multi-parameter persistence from Morse critical values_
-
-Multi-parameter persistence modules are promising tools in topological data
-analysis of multivariate data that still need to maintain their promises due to
-their heavy computational and theoretical intricacies. They are defined by
-applying homology to multi-filtered cell complexes. On the other hand, discrete
-Morse theory is a well-understood theory that permits reducing a cell complex to
-the critical cells of a gradient vector field. Critical cells carry all the
-relevant homological information about the input data. A connection between the
-two theories comes from the fact that the entrance values of critical cells are
-sufficient to determine the fibered rank invariant of multi-parameter
-persistence. In this talk, after reviewing such a connection, I'll consider the
-matching distance to compare the rank invariant of two persistence modules.
-I'll show recent results about the exact computation of the matching distance
-using only the geometric patterns of the entrance values of the critical cells
-in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
-Hacker, and Barbara Mahler.
 
 ### Topological persistence theory
 
@@ -168,6 +149,24 @@ setting. In this talk, I will discuss some of these. The talk will be based on a
 recent survey on multiparameter persistent homology that I have coauthored with
 Michael Lesnick.
 
+#### Claudia Landi: _Computing the matching distance of multi-parameter persistence from Morse critical values_
+
+Multi-parameter persistence modules are promising tools in topological data
+analysis of multivariate data that still need to maintain their promises due to
+their heavy computational and theoretical intricacies. They are defined by
+applying homology to multi-filtered cell complexes. On the other hand, discrete
+Morse theory is a well-understood theory that permits reducing a cell complex to
+the critical cells of a gradient vector field. Critical cells carry all the
+relevant homological information about the input data. A connection between the
+two theories comes from the fact that the entrance values of critical cells are
+sufficient to determine the fibered rank invariant of multi-parameter
+persistence. In this talk, after reviewing such a connection, I'll consider the
+matching distance to compare the rank invariant of two persistence modules.
+I'll show recent results about the exact computation of the matching distance
+using only the geometric patterns of the entrance values of the critical cells
+in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
+Hacker, and Barbara Mahler.
+
 ## Submissions
 
 The conference will feature contributed talks. Important dates are
@@ -187,6 +186,8 @@ Science](https://www.epita.fr/) located 14-16 rue Voltaire 94270 Le
 Kremlin-Bicêtre (just at the south border of Paris):
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.230208222071!2d2.3606284158587414!3d48.815668911667466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6718002cb5611%3A0x581b7c8cd0a77c3e!2sEPITA%20-%20School%20of%20Engineering%20and%20Computer%20Science!5e0!3m2!1sen!2sfr!4v1644333065119!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+The conference is free of charge.
 
 ## Publication
 
