@@ -73,7 +73,8 @@ Please submit your contribution at
 
 https://easychair.org/conferences/?conf=getco2022
 
-by 15 March 2022. There is no imposed format for the submissions.
+by 31 March 2022. There is no imposed format for the submissions, although they
+would typically consist in abstracts.
 
 ## SCIENTIFIC COMMITTEE
 
