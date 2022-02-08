@@ -177,10 +177,11 @@ Hacker, and Barbara Mahler.
 
 The conference will feature contributed talks. Important dates are
 
-- submission: 15 March 2022
-- notification: 15 April 2022
+- submission: 31 March 2022
+- notification: 29 April 2022
 
-The submissions should be [uploaded on the dedicated easychair
+The submissions should consist in free-form abstracts (longer submissions are
+also accepted) and be [uploaded on the dedicated easychair
 page](https://easychair.org/conferences/?conf=getco2022).
 
 There is no imposed format.
