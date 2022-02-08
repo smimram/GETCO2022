@@ -6,7 +6,9 @@ title: GETCO 2022 -- 11th International Conference on Geometric and Topological 
 
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Paris_Night.jpg/1024px-Paris_Night.jpg" width="100%"/>
 
-GETCO 2022 will take place in Paris from May 30th to June 3rd 2022.
+GETCO 2022 will take place in Paris from May 30th to June 3rd 2022. The
+conference is _hybrid_. Onsite participation is encouraged, but an option for
+online participation will be provided.
 
 The Geometric and Topological Methods in Computer Science (GETCO) conference
 series focus on applications of algebraic topology in computer science with
@@ -178,6 +180,14 @@ page](https://easychair.org/conferences/?conf=getco2022).
 
 There is no imposed format.
 
+## Venue
+
+The conference will take place at [EPITA School of Engineering and Computer
+Science](https://www.epita.fr/) located 14-16 rue Voltaire 94270 Le
+Kremlin-Bicêtre (just at the south border of Paris):
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.230208222071!2d2.3606284158587414!3d48.815668911667466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6718002cb5611%3A0x581b7c8cd0a77c3e!2sEPITA%20-%20School%20of%20Engineering%20and%20Computer%20Science!5e0!3m2!1sen!2sfr!4v1644333065119!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 ## Publication
 
 A special issue of a journal will be dedicated to selected papers from the
@@ -238,7 +248,6 @@ delayed due to the pandemia.
 - Eric Goubault
 - Roman Kniazev
 - Samuel Mimram
-
 
 ## Sponsors
 
