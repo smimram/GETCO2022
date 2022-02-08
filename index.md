@@ -32,6 +32,8 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
+#### TBA
+
 ### Geometric aspects of logics, higher categories and rewriting
 
 #### Eric Finster: _Introduction to Homotopy Type Theory_
@@ -46,6 +48,33 @@ in type theory and has led to the introduction of many new ideas, both
 meta-theoretical, for example in the form of previously unknown models, as well
 as practical in the form of new computational principles which have since then
 been incorporated into modern proof assistants.
+
+### Dynamical/hybrid/control systems and robotics
+
+#### Jonathan Barnak & Thomas Wanner
+
+### Topological persistence theory
+
+#### Gregory Ginot
+
+## Invited Speakers
+
+The list should be completed later on.
+
+### Directed topology, concurrency and distributed computing
+
+#### Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
+
+Higher dimensional automata (HDA) are precubical sets with some additional
+structure. They serve as a model for concurrency, which can be examined with
+topological methods. Executions of an HDA can be regarded both topologically, as
+certain (directed) paths on its geometric realization, and combinatorially, as
+sequences of its cells. In my talk I will compare these two approaches and
+present a nice "permutahedral" model that unifies them. This model can be
+applied to construct some invariants of HDA and to show connections between
+executions of HDAs and braid groups.
+
+### Geometric aspects of logics, higher categories and rewriting
 
 #### Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
 
@@ -79,35 +108,6 @@ directed identities, backward along directed identities, and along (usual,
 undirected) identities. These are reflected in the semantics, for example in
 Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
 isofibrations.
-
-### Dynamical/hybrid/control systems and robotics
-
-#### Jonathan Barnak
-
-#### Thomas Wanner
-
-### Topological persistence theory
-
-#### Gregory Ginot
-
-## Invited Speakers
-
-The list should be completed later on.
-
-### Directed topology, concurrency and distributed computing
-
-#### Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
-
-Higher dimensional automata (HDA) are precubical sets with some additional
-structure. They serve as a model for concurrency, which can be examined with
-topological methods. Executions of an HDA can be regarded both topologically, as
-certain (directed) paths on its geometric realization, and combinatorially, as
-sequences of its cells. In my talk I will compare these two approaches and
-present a nice "permutahedral" model that unifies them. This model can be
-applied to construct some invariants of HDA and to show connections between
-executions of HDAs and braid groups.
-
-### Geometric aspects of logics, higher categories and rewriting
 
 ### Dynamical/hybrid/control systems and robotics
 
