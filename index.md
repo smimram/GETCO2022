@@ -57,7 +57,38 @@ been incorporated into modern proof assistants.
 
 ### Dynamical/hybrid/control systems and robotics
 
-#### Jonathan Barnak & Thomas Wanner
+#### Jonathan Barnak & Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_
+
+Morse theory establishes a celebrated link between classical gradient dynamics
+and the topology of the underlying phase space. It provided the motivation for
+two independent developments. On the one hand, Conley's theory of isolated
+invariant sets and Morse decompositions, which is a generalization of Morse
+theory, is able to encode the global dynamics of general dynamical systems using
+topological information. On the other hand, Forman's discrete Morse theory on
+simplicial complexes, which is a combinatorial version of the classical theory,
+and has found numerous applications in mathematics, computer science, and
+applied sciences.
+
+In this tutorial, we introduce recent work on combinatorial topological
+dynamics, which combines both of the above theories and leads as a special case
+to a dynamical Conley theory for Forman vector fields, and more general, for
+multivectors. This theory has been developed using the general framework of
+finite topological spaces, which contain simplicial complexes as a special case.
+
+The tutorial consists of two parts:
+
+* The first lecture provides a review of Forman's discrete Morse theory, and
+  describes some of its applications.  We also provide an introduction to the
+  theory of finite topological spaces, its connections to posets, simplicial
+  complexes, and their homotopy properties.
+* The second lecture introduces the concept of multivector fields on finite
+  topological spaces and presents the main ingredients of Conley's theory, such
+  as isolated invariant sets, their Conley index, and Morse decompositions. We
+  also touch upon the relation between this combinatorial theory and its
+  classical counterpart.  Time permitting, we address applications of the theory
+  to establishing recurrence in classical dynamics, and describe advanced topics
+  such as connection matrices.
+
 
 ### Topological persistence theory
 
