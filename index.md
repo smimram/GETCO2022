@@ -32,7 +32,7 @@ for online participation will be provided.
 Registration is free but mandatory on [the dedicated
 form](https://forms.gle/M4RBGrM8rauDfGHg8).
 
-## Tutorial Speakers
+## Tutorials
 
 The list should be completed later on.
 
@@ -94,7 +94,7 @@ The tutorial consists of two parts:
 
 #### Gregory Ginot
 
-## Invited Speakers
+## Speakers
 
 The list should be completed later on.
 

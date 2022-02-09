@@ -10,4 +10,4 @@ upload: index.html
 	scp CFP.md lix:.webdir/getco22/CFP.txt
 
 %.html: %.md
-	pandoc $< -s --css pandoc.css -o $@
+	pandoc $< -s --toc --toc-depth=2 --css pandoc.css -o $@
