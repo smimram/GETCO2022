@@ -92,7 +92,15 @@ The tutorial consists of two parts:
 
 ### Topological persistence theory
 
-#### Gregory Ginot
+#### Gregory Ginot: _Homotopical and sheaf theoretic point of view on multi-parameter persistence_
+
+A first goal of the talk will be to highlight the relationship between level
+sets persistence theory (which are sheaf theoretic naturally) with a certain
+type of 2-parameter persistence theory; precisely an equivalence between the
+first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
+how to generalize this idea in higher parameter persistence introducing a
+specific kind of higher parameter persistence with homotopical properties. This
+is based on joint work with Nicoals Berkouk and Steve Oudot.
 
 ## Speakers
 
