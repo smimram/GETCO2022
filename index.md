@@ -92,15 +92,22 @@ The tutorial consists of two parts:
 
 ### Topological persistence theory
 
-#### Gregory Ginot: _Homotopical and sheaf theoretic point of view on multi-parameter persistence_
+#### Magnus Botnan: _A mini-survey of multiparameter persistent homology_
 
-A first goal of the talk will be to highlight the relationship between level
-sets persistence theory (which are sheaf theoretic naturally) with a certain
-type of 2-parameter persistence theory; precisely an equivalence between the
-first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
-how to generalize this idea in higher parameter persistence introducing a
-specific kind of higher parameter persistence with homotopical properties. This
-is based on joint work with Nicoals Berkouk and Steve Oudot.
+Persistent homology associates a family of barcodes to a filtered topological
+space. The best-known example arises when applying homology in low dimensions to
+the filtered Rips complex built on a finite metric space. There are, however,
+many situations in which it is desirable to filter a topological space by
+multiple functions, and while one can apply homology to multifiltration in a
+straightforward way, the notion of a barcode does not generalize from the
+single-parameter setting. Given that nearly all the theory in the
+single-parameter setting is built upon the idea of a barcode, the non-existence
+of a barcode has been a major obstacle in the development of multiparameter
+persistent homology. However, in recent years there has been a surge in activity
+resulting in a range of new invariants and applications in the multiparameter
+setting. In this talk, I will discuss some of these. The talk will be based on a
+recent survey on multiparameter persistent homology that I have coauthored with
+Michael Lesnick.
 
 ## Speakers
 
@@ -177,22 +184,15 @@ functions, compare them and illustrate them with examples.
 
 ### Topological persistence theory
 
-#### Magnus Botnan: _A mini-survey of multiparameter persistent homology_
+#### Gregory Ginot: _Homotopical and sheaf theoretic point of view on multi-parameter persistence_
 
-Persistent homology associates a family of barcodes to a filtered topological
-space. The best-known example arises when applying homology in low dimensions to
-the filtered Rips complex built on a finite metric space. There are, however,
-many situations in which it is desirable to filter a topological space by
-multiple functions, and while one can apply homology to multifiltration in a
-straightforward way, the notion of a barcode does not generalize from the
-single-parameter setting. Given that nearly all the theory in the
-single-parameter setting is built upon the idea of a barcode, the non-existence
-of a barcode has been a major obstacle in the development of multiparameter
-persistent homology. However, in recent years there has been a surge in activity
-resulting in a range of new invariants and applications in the multiparameter
-setting. In this talk, I will discuss some of these. The talk will be based on a
-recent survey on multiparameter persistent homology that I have coauthored with
-Michael Lesnick.
+A first goal of the talk will be to highlight the relationship between level
+sets persistence theory (which are sheaf theoretic naturally) with a certain
+type of 2-parameter persistence theory; precisely an equivalence between the
+first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
+how to generalize this idea in higher parameter persistence introducing a
+specific kind of higher parameter persistence with homotopical properties. This
+is based on joint work with Nicoals Berkouk and Steve Oudot.
 
 #### Claudia Landi: _Computing the matching distance of multi-parameter persistence from Morse critical values_
 
