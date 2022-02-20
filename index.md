@@ -38,28 +38,16 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
-#### Jérémy Ledent: _Simplicial Models for Multi-Agent Epistemic Logic_
+#### Uli Fahrenberg: _Directed Topology and Concurrency_
 
-Epistemic Logic is the modal logic of knowledge. It allows to reason about a
-finite set of agents who can know facts about the world, and about what the
-other agents know. The traditional Kripke-style semantics for epistemic logic is
-based on graphs whose vertices represent the possible worlds, and whose edges
-indicate the agents that cannot distinguish between two worlds. In this talk, I
-will present an alternative semantics for epistemic logic, based on
-combinatorial topology. The idea is to replace the Kripke graph by a simplicial
-complex, allowing for higher-dimensional connectivity between the possible
-worlds. In fact, every Kripke model can be turned into an equivalent simplicial
-model, thus uncovering its underlying geometric structure.
-
-Our notion of simplicial model is inspired from the "protocol complex" approach
-to distributed computing. I will show how our framework can be used to analyse
-distributed computing, where the agents are the processes, and the possible
-worlds are all the possible executions of the system. In order to prove
-impossibility results, one must find an epistemic logic formula representing the
-knowledge that the processes should acquire in order to solve a task; and argue
-that such knowledge cannot be achieved.
-
-This is joint work with Éric Goubault and Sergio Rajsbaum.
+I will introduce the basics of directed algebraic topology and how it is
+motivated by the theory of concurrent processes. I will cover directed
+topological spaces, directed homotopy, deadlocks and forbidden regions. Then I
+will proceed to the combinatorial setting of precubical sets and
+higher-dimensional automata, their geometric realizations, and combinatorial
+analogues of directed paths and homotopies. In the last part of the talk I will
+cover invariants of directed tpological spaces, such as component categories,
+directed homology, and path spaces, and their applications.
 
 ### Geometric aspects of logics, higher categories and rewriting
 
@@ -135,6 +123,29 @@ Michael Lesnick.
 The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
+
+#### Jérémy Ledent: _Simplicial Models for Multi-Agent Epistemic Logic_
+
+Epistemic Logic is the modal logic of knowledge. It allows to reason about a
+finite set of agents who can know facts about the world, and about what the
+other agents know. The traditional Kripke-style semantics for epistemic logic is
+based on graphs whose vertices represent the possible worlds, and whose edges
+indicate the agents that cannot distinguish between two worlds. In this talk, I
+will present an alternative semantics for epistemic logic, based on
+combinatorial topology. The idea is to replace the Kripke graph by a simplicial
+complex, allowing for higher-dimensional connectivity between the possible
+worlds. In fact, every Kripke model can be turned into an equivalent simplicial
+model, thus uncovering its underlying geometric structure.
+
+Our notion of simplicial model is inspired from the "protocol complex" approach
+to distributed computing. I will show how our framework can be used to analyse
+distributed computing, where the agents are the processes, and the possible
+worlds are all the possible executions of the system. In order to prove
+impossibility results, one must find an epistemic logic formula representing the
+knowledge that the processes should acquire in order to solve a task; and argue
+that such knowledge cannot be achieved.
+
+This is joint work with Éric Goubault and Sergio Rajsbaum.
 
 #### Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
 
