@@ -9,8 +9,8 @@ title: GETCO 2022 -- 11th International Conference on Geometric and Topological 
 GETCO 2022 will take place in Paris from May 30th to June 3rd 2022.
 
 The Geometric and Topological Methods in Computer Science (GETCO) conference
-series focus on applications of algebraic topology in computer science with
-special emphasis in _concurrency, distributed computing, networking_ and other
+series focuses on applications of algebraic topology in computer science with
+special emphasis on _concurrency, distributed computing, networking_ and other
 situations related to systems of sequential computers that communicate with each
 other. It is aimed at mathematicians and computer scientists working in or
 interested in these subjects, including researchers and graduate students. The
