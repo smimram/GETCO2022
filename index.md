@@ -32,6 +32,19 @@ for online participation will be provided.
 Registration is free but mandatory on [the dedicated
 form](https://forms.gle/M4RBGrM8rauDfGHg8).
 
+## Submissions
+
+The conference will feature contributed talks. Important dates are
+
+- submission: 31 March 2022
+- notification: 15 April 2022
+
+The submissions should consist in free-form abstracts (longer submissions are
+also accepted) and be [uploaded on the dedicated easychair
+page](https://easychair.org/conferences/?conf=getco2022).
+
+There is no imposed format.
+
 ## Tutorials
 
 The list should be completed later on.
@@ -243,19 +256,6 @@ I'll show recent results about the exact computation of the matching distance
 using only the geometric patterns of the entrance values of the critical cells
 in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
 Hacker, and Barbara Mahler.
-
-## Submissions
-
-The conference will feature contributed talks. Important dates are
-
-- submission: 31 March 2022
-- notification: 15 April 2022
-
-The submissions should consist in free-form abstracts (longer submissions are
-also accepted) and be [uploaded on the dedicated easychair
-page](https://easychair.org/conferences/?conf=getco2022).
-
-There is no imposed format.
 
 ## Venue
 
