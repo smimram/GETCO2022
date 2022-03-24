@@ -265,6 +265,15 @@ Kremlin-Bicêtre (just at the south border of Paris):
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2627.230208222071!2d2.3606284158587414!3d48.815668911667466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6718002cb5611%3A0x581b7c8cd0a77c3e!2sEPITA%20-%20School%20of%20Engineering%20and%20Computer%20Science!5e0!3m2!1sen!2sfr!4v1644333065119!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+Some recommendations of nearby hotels are
+
+- [Novotel Paris 14 Porte d'Orléans](https://goo.gl/maps/5y3m94tYCqswP1dr9)
+- [Ibis Styles Paris Meteor Avenue d'italie](https://goo.gl/maps/xdnxeLEaTWv4jYndA)
+- [Break & Home Paris Italie Porte de Choisy](https://goo.gl/maps/1FJnrsZ8pEc8Dy7QA)
+- [Hôtel Restaurant Campanile Porte D'Italie](https://goo.gl/maps/FQP4wjRjWSd3i3mWA)
+- [B&B Hotel](https://g.page/bb-hotel-ivry-sur-seine)
+- [Ibis Budget Paris Porte d'Italie Est](https://goo.gl/maps/76PgC8vGKEMdme6YA)
+
 ## Publication
 
 A special issue of a journal will be dedicated to selected papers from the
