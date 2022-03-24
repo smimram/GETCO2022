@@ -268,6 +268,7 @@ Kremlin-Bicêtre (just at the south border of Paris):
 Some recommendations of nearby hotels are
 
 - [Novotel Paris 14 Porte d'Orléans](https://goo.gl/maps/5y3m94tYCqswP1dr9)
+  (this is where invited speakers are located)
 - [Ibis Styles Paris Meteor Avenue d'italie](https://goo.gl/maps/xdnxeLEaTWv4jYndA)
 - [Break & Home Paris Italie Porte de Choisy](https://goo.gl/maps/1FJnrsZ8pEc8Dy7QA)
 - [Hôtel Restaurant Campanile Porte D'Italie](https://goo.gl/maps/FQP4wjRjWSd3i3mWA)
@@ -295,7 +296,10 @@ Connections between Mathematics and Computer
 Science](https://pdfs.semanticscholar.org/98f1/52cef40066916dc541a4910c8eceae43c583.pdf),
 organized by Jeremy Gunawardena in Cambridge Nov. 1995.
 
-The following seven GETCO workshops were held as satellites to CONCUR or DISC, the main conferences on concurrency and distributed computing. The 2nd was held at Penn State University, in 2000, then in Aalborg in 2001, Toulouse 2002, Marseille 2003, Amsterdam 2004, San Francisco 2005, and Bonn 2006.
+The following seven GETCO workshops were held as satellites to CONCUR or DISC,
+the main conferences on concurrency and distributed computing. The 2nd was held
+at Penn State University, in 2000, then in Aalborg in 2001, Toulouse 2002,
+Marseille 2003, Amsterdam 2004, San Francisco 2005, and Bonn 2006.
 
 The [2010 workshop](http://people.math.aau.dk/~raussen/GETCO/GETCO10/) had a
 broader scope and included further applications of algebraic topology including
