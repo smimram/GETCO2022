@@ -31,7 +31,7 @@ for online participation will be provided.
 
 **Registration is free but mandatory** on [the dedicated
 form](https://forms.gle/M4RBGrM8rauDfGHg8). Deadline for registering is Monday,
-25 April.
+**25 April**.
 
 ## Submissions
 
