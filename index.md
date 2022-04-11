@@ -33,6 +33,7 @@ for online participation will be provided.
 form](https://forms.gle/M4RBGrM8rauDfGHg8). Deadline for registering is Monday,
 **25 April**.
 
+<!--
 ## Submissions
 
 The conference will feature contributed talks. Important dates are
@@ -45,6 +46,7 @@ also accepted) and be [uploaded on the dedicated easychair
 page](https://easychair.org/conferences/?conf=getco2022).
 
 There is no imposed format.
+-->
 
 ## Tutorials
 
@@ -339,3 +341,10 @@ delayed due to the pandemia.
 - Eric Goubault
 - Roman Kniazev
 - Samuel Mimram
+
+### Sponsors
+
+<center>
+<a href="https://www.epita.fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/Epita.png/800px-Epita.png" height="150px"/></a>
+<a href="https://www.polytechnique.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%C3%89cole_polytechnique_signature.svg/langfr-800px-%C3%89cole_polytechnique_signature.svg.png" height="250px"/></a>
+</center>
