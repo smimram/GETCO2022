@@ -52,9 +52,9 @@ There is no imposed format.
 
 The schedule will be fill in soon!
 
-| day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
+| Day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
 |---|---|---|---|---|---|
-| theme | Dir. top. | Logics |  | TDA | Robotics |
+| Theme | Dir. top. | Logics |  | TDA | Robotics |
 |  9:00--9:45 | Tutorial I |
 | 10:00--10:45 | Tutorial II |
 | | _break_ |
