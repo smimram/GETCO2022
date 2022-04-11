@@ -50,6 +50,8 @@ There is no imposed format.
 
 ## Schedule
 
+The conference takes place from Monday, April 30th to Friday, June 3rd. All times are given in French local time (GMT+1).
+
 The schedule will be fill in soon!
 
 | Day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
