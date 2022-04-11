@@ -48,6 +48,24 @@ page](https://easychair.org/conferences/?conf=getco2022).
 There is no imposed format.
 -->
 
+## Schedule
+
+The schedule will be fill in soon!
+
+| day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
+|---|---|---|---|---|---|
+| theme | Dir. top. | Logics |  | TDA | Robotics |
+|  9:00--9:45 | Tutorial I |
+| 10:00--10:45 | Tutorial II |
+| | _break_ |
+| 11:15--12:15 | Invited talk I |
+| | _lunch_ |
+| 14:00--14:40 | Contributed talk |
+| 14:50--15:30 | Contributed talk |
+| | _break_
+| 16:00--16:40 | Contributed talk |
+| 17:00--18:00 | Invited talk II |
+
 ## Tutorials
 
 The list should be completed later on.
