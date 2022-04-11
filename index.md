@@ -54,7 +54,7 @@ The schedule will be fill in soon!
 
 | Day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
 |---|---|---|---|---|---|
-| Theme | Dir. top. | Logics |  | TDA | Robotics |
+| Theme | _Dir. top._ | _Logics_ |  | _TDA_ | _Robotics_ |
 |  9:00--9:45 | Tutorial I |
 | 10:00--10:45 | Tutorial II |
 | | _break_ |
