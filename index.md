@@ -57,7 +57,7 @@ The schedule is indicative and still subject to changes.
 
 | Time | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
 |---|---|---|---|---|---|
-| | | _Dir. top._ | _TDA_ |  _Dyn. sys._ | _Logics_ | |
+| | _Dir. top._ | _TDA_ |  _Dyn. sys._ | _Logics_ | |
 |  9:00--9:45 | Uli Fahrenberg | Jonathan Barnak | Magnus Botnam | Eric Finster | Peter Giesl |
 | 10:00--10:45 | ? | Thomas Wanner | Magnus Botnam | Eric Finster | Paige North |
 | | _break_ |
