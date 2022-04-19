@@ -50,23 +50,24 @@ There is no imposed format.
 
 ## Schedule
 
-The conference takes place from Monday, April 30th to Friday, June 3rd. All times are given in French local time (GMT+1).
+The conference takes place from Monday, April 30th to Friday, June 3rd. All
+times are given in French local time (GMT+1).
 
-The schedule will be fill in soon!
+The schedule is indicative and still subject to changes.
 
-| Day | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
+| Time | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
 |---|---|---|---|---|---|
-| Theme | _Dir. top._ | _Logics_ |  | _TDA_ | _Robotics_ |
-|  9:00--9:45 | Tutorial I |
-| 10:00--10:45 | Tutorial II |
+| | | _Dir. top._ | _TDA_ |  _Dyn. sys._ | _Logics_ | |
+|  9:00--9:45 | Uli Fahrenberg | Jonathan Barnak | Magnus Botnam | Eric Finster | Peter Giesl |
+| 10:00--10:45 | ? | Thomas Wanner | Magnus Botnam | Eric Finster | Paige North |
 | | _break_ |
-| 11:15--12:15 | Invited talk I |
+| 11:15--12:15 | Krzysztof Ziemiański | Claudia Landi | Gregory Ginot | Amar Hadzihasanovic | |
 | | _lunch_ |
-| 14:00--14:40 | Contributed talk |
-| 14:50--15:30 | Contributed talk |
+| 14:00--14:40 | | | |
+| 14:50--15:30 | | | |
 | | _break_
-| 16:00--16:40 | Contributed talk |
-| 17:00--18:00 | Invited talk II |
+| 16:00--16:40 | | | |
+| 17:00--18:00 | Jeremy Ledent | Georg Struth | _social event_ | | |
 
 ## Tutorials
 

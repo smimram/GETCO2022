@@ -1,0 +1,27 @@
+table tbody tr+tr td+td {
+    background-color: lightsalmon;
+}
+
+table tbody tr+tr td+td+td+td+td+td {
+    background-color: palegreen;
+}
+
+table tbody tr+tr+tr+tr td+td {
+    background-color: inherit;
+}
+
+table tbody tr+tr+tr+tr+tr td+td {
+    background-color: palegreen;
+}
+
+table tbody tr+tr+tr+tr+tr+tr td+td {
+    background-color: inherit;
+}
+
+table tbody tr+tr+tr+tr+tr+tr+tr td+td {
+    background-color: lavender;
+}
+
+table tbody tr+tr+tr+tr+tr+tr+tr+tr+tr+tr+tr td+td {
+    background-color: palegreen;
+}
