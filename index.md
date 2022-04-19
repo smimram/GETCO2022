@@ -291,7 +291,7 @@ Kremlin-Bicêtre (just at the south border of Paris):
 
 Some recommendations of nearby hotels are
 
-- [Novotel Paris 14 Porte d'Orléans](https://goo.gl/maps/5y3m94tYCqswP1dr9)
+- [Novotel Paris 13 Porte d'Italie](https://goo.gl/maps/BbStLpjq4TUGTA3f8)
   (this is where invited speakers are located)
 - [Ibis Styles Paris Meteor Avenue d'italie](https://goo.gl/maps/xdnxeLEaTWv4jYndA)
 - [Break & Home Paris Italie Porte de Choisy](https://goo.gl/maps/1FJnrsZ8pEc8Dy7QA)
