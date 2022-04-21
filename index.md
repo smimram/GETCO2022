@@ -69,6 +69,9 @@ The schedule is indicative and still subject to changes.
 | 16:00--16:40 | | | |
 | 17:00--18:00 | Jeremy Ledent | Georg Struth | _social event_ | | |
 
+Color code is red for _tutorials_, green for _invited talks_ and blue for
+_contributed talks_.
+
 ## Tutorials
 
 The list should be completed later on.
