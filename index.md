@@ -233,6 +233,45 @@ undirected) identities. These are reflected in the semantics, for example in
 Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
 isofibrations.
 
+#### Georg Struth (University of Sheffield, UK and Collegium de Lyon): _Catoids as a Basis for Algebras of Programs_
+
+Algebras of programs, such as variants of Kleene algebras,
+relation algebras or quantales, are useful for program correctness and
+verification.  They provide abstractions for various concrete
+semantics of programs and computing systems, qualitative or
+quantitative. Such semantics typically model program behaviours in
+terms of relations or predicate transformers, execution traces or
+dependency orders -- or they form quantitative extensions of these.
+
+I will argue that many of these algebras and their relationships with models
+arise from a uniform construction of convolution algebras from catoids, which
+generalise categories to (ternary) relational structures, and from modal
+correspondences between catoids and convolution algebras. The approach combines
+ideas from representation theory, group and category algebras, with the duality
+theory for ternary relations and boolean algebras with operators. Using catoids
+may streamline the development of algebras of programs and their models. Only a
+few simple catoid axioms may need to be checked to construct a model of a much
+richer algebraic structure, and lifting properties from models via catoids to
+algebras is often compositional. To construct a Kleene algebra or quantale for a
+given application, or a model for a given algebra, it is therefore worth asking
+what the underlying catoid might be.
+
+I will explain the approach through two examples: modal Kleene algebras, which
+yield algebras of predicate transformers akin to dynamic logics, and concurrent
+Kleene algebras, which capture interleaving and non-interleaving semantics for
+concurrent systems. For both cases I will describe the catoids, and often
+categories, that formalise the standard semantics.
+
+Combining these two examples, I will aim to explain how the approach helps
+justifying the globular $n$-Kleene algebra axioms, which have recently been
+proposed for higher-dimensional rewriting, in terms of globular $n$-dioids, and
+thus (strict) $n$-categories and $n$-polygraphs.
+
+This talk is based on joint work with many colleagues I would like to thank
+Cameron Calk, James Cranch, Simon Doherty, Brijesh Dongol, Uli Fahrenberg, Ian
+Hayes, Christian Johansen, Philippe Malbos, Damien Pous and Krzysztof Ziemianski
+for their collaboration.
+
 ### Dynamical/hybrid/control systems and robotics
 
 #### Peter Giesl (University of Sussex): _Computation of Lyapunov functions and contraction metrics for dynamical systems_
