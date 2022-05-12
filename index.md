@@ -410,4 +410,5 @@ delayed due to the pandemia.
 <center>
 <a href="https://www.epita.fr/"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/Epita.png/800px-Epita.png" height="150px"/></a>
 <a href="https://www.polytechnique.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/%C3%89cole_polytechnique_signature.svg/langfr-800px-%C3%89cole_polytechnique_signature.svg.png" height="250px"/></a>
+<a href="https://www.defense.gouv.fr/aid"><img src="https://lafabrique.defense.gouv.fr/img/Partners/AID.png" height="200px"></a>
 </center>
