@@ -59,15 +59,16 @@ The schedule is indicative and still subject to changes.
 |---|---|---|---|---|---|
 | | _Dir. top._ | _Dyn. sys._ | _TDA_ | _Logics_ | |
 |  9:00--9:45 | Uli Fahrenberg | Jonathan Barnak | Magnus Botnam | Eric Finster | Peter Giesl (1h) |
-| 10:00--10:45 | ? | Thomas Wanner | Magnus Botnam | Eric Finster | Paige North (1h) |
+| 10:00--10:45 | Dmitry Kozlov | Thomas Wanner | Magnus Botnam | Eric Finster | Paige North (1h) |
 | | _break_ |
 | 11:15--12:15 | Krzysztof Ziemiański | Claudia Landi | Gregory Ginot | Amar Hadzihasanovic | |
 | | _lunch_ |
-| 14:00--14:40 | | | |
-| 14:50--15:30 | | | |
+| 13:50--14:30 |Murdoch Gabbay and Giuliano Losa | Pedro J. Chocano| | Sergio Rajsbaum and Armajac Raventós Pujol | Maria Luiza Costa Vianna, Eric Goubault, Sylvie Putot and Luc Jaulin  |
+| --- |Thomas Kahl |Donald Woukeng Feudjio, Damian Sadowski, Jakub Leskiewicz and Marian Mrozek | | Ximena Fernandez and Kevin Piterman | Tamal Dey, Marian Mrozek and Ryan Slechta |
 | | _break_
-| 16:00--16:40 | | | |
-| 17:00--18:00 | Jeremy Ledent | Georg Struth | _social event_ | | |
+| 15:30--16:10 |Emmanuel Haucourt and Pierre-Yves Coursolle |Susumu Nishimura | |  Andrés Angel and Jerson Borja | Cameron Calk, Eric Goubault and Philippe Malbos  |
+| --- |Nicolas Boutry | Fabian Lenzen | |  Mateusz Przybylski and Marian Mrozek | Michał Lipiński, Tamal Dey, Marian Mrozek and Ryan Slechta |
+| 16:30--17:30 | Jeremy Ledent | Georg Struth | _social event_ | | |
 
 Color code is red for _tutorials_, green for _invited talks_ and blue for
 _contributed talks_.
