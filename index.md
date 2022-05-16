@@ -58,7 +58,7 @@ The schedule is indicative and still subject to changes.
 | Time           | Monday 30                       | Tuesday 31                                                   | Wednesday 1    | Thursday 2                        | Friday 3                                                |
 |----------------|---------------------------------|--------------------------------------------------------------|----------------|-----------------------------------|---------------------------------------------------------|
 |                | _Dir. top._                     | _Dyn. sys._                                                  | _TDA_          | _Logics_                          |                                                         |
-| 9:00--9:45     | Uli Fahrenberg                  | Jonathan Barnak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                  | Jonathan Barnak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
 | 10:00--10:45   | Dmitry Kozlov                   | Thomas Wanner                                                | Magnus Botnam  | Eric Finster                      | Paige North (1h)                                        |
 | 10:45 -- 11:15 | _break_                         | _break_                                                      | _break_        | _break_                           | _break_                                                 |
 | 11:15--12:15   | Krzysztof Ziemiański            | Claudia Landi                                                | Gregory Ginot  | Amar Hadzihasanovic               |                                                         |
@@ -79,7 +79,7 @@ The list should be completed later on.
 
 ### Directed topology, concurrency and distributed computing
 
-#### Uli Fahrenberg: _Directed Topology and Concurrency_
+#### Uli Fahrenberg: _Directed Topology and Concurrency_ {#fahrenberg}
 
 I will introduce the basics of directed algebraic topology and how it is
 motivated by the theory of concurrent processes. I will cover directed
