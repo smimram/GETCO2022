@@ -51,24 +51,24 @@ There is no imposed format.
 ## Schedule
 
 The conference takes place from Monday, April 30th to Friday, June 3rd. All
-times are given in French local time (GMT+1).
+times are given in French local time (GMT+2).
 
 The schedule is indicative and still subject to changes.
 
-| Time | Monday 30 | Tuesday 31 | Wednesday 1 | Thursday 2 | Friday 3 |
-|---|---|---|---|---|---|
-| | _Dir. top._ | _Dyn. sys._ | _TDA_ | _Logics_ | |
-|  9:00--9:45 | Uli Fahrenberg | Jonathan Barnak | Magnus Botnam | Eric Finster | Peter Giesl (1h) |
-| 10:00--10:45 | Dmitry Kozlov | Thomas Wanner | Magnus Botnam | Eric Finster | Paige North (1h) |
-| | _break_ |
-| 11:15--12:15 | Krzysztof Ziemiański | Claudia Landi | Gregory Ginot | Amar Hadzihasanovic | |
-| | _lunch_ |
-| 13:50--14:30 |Murdoch Gabbay and Giuliano Losa | Pedro J. Chocano| | Sergio Rajsbaum and Armajac Raventós Pujol | Maria Luiza Costa Vianna, Eric Goubault, Sylvie Putot and Luc Jaulin  |
-| --- |Thomas Kahl |Donald Woukeng Feudjio, Damian Sadowski, Jakub Leskiewicz and Marian Mrozek | | Ximena Fernandez and Kevin Piterman | Tamal Dey, Marian Mrozek and Ryan Slechta |
-| | _break_
-| 15:30--16:10 |Emmanuel Haucourt and Pierre-Yves Coursolle |Susumu Nishimura | |  Andrés Angel and Jerson Borja | Cameron Calk, Eric Goubault and Philippe Malbos  |
-| --- |Nicolas Boutry | Fabian Lenzen | |  Mateusz Przybylski and Marian Mrozek | Michał Lipiński, Tamal Dey, Marian Mrozek and Ryan Slechta |
-| 16:30--17:30 | Jeremy Ledent | Georg Struth | _social event_ | | |
+| Time           | Monday 30                       | Tuesday 31                                                   | Wednesday 1    | Thursday 2                        | Friday 3                                                |
+|----------------|---------------------------------|--------------------------------------------------------------|----------------|-----------------------------------|---------------------------------------------------------|
+|                | _Dir. top._                     | _Dyn. sys._                                                  | _TDA_          | _Logics_                          |                                                         |
+| 9:00--9:45     | Uli Fahrenberg                  | Jonathan Barnak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
+| 10:00--10:45   | Dmitry Kozlov                   | Thomas Wanner                                                | Magnus Botnam  | Eric Finster                      | Paige North (1h)                                        |
+| 10:45 -- 11:15 | _break_                         | _break_                                                      | _break_        | _break_                           | _break_                                                 |
+| 11:15--12:15   | Krzysztof Ziemiański            | Claudia Landi                                                | Gregory Ginot  | Amar Hadzihasanovic               |                                                         |
+| 12:15 -- 13:50 | _lunch_                         | _lunch_                                                      | _lunch_        | _lunch_                           | _lunch_                                                 |
+| 13:50--14:30   | M. Gabbay and G. Losa           | P. J. Chocano                                                | _social event_ | S. Rajsbaum and A. Raventós Pujol | M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin |
+| _in parallel_  | T. Kahl                         | D. Woukeng Feudjio, D. Sadowski, J. Leskiewicz and M. Mrozek | _social event_ | X. Fernandez and K. Piterman      | T. Dey, M. Mrozek and R. Slechta                        |
+| 14:30--15:30   | _breakout discussions_          | _breakout discussions_                                       | _social event_ | _breakout discussions_            | _breakout discussions_                                  |
+| 15:30--16:10   | E. Haucourt and P.-Y. Coursolle | S. Nishimura                                                 | _social event_ | A. Angel and J. Borja             | C. Calk, E. Goubault and P. Malbos                      |
+| _in parallel_  | N. Boutry                       | F. Lenzen                                                    | _social event_ | M. Przybylski and M. Mrozek       | M. Lipiński, T. Dey, M. Mrozek and R. Slechta           |
+| 16:30--17:30   | Jeremy Ledent                   | Georg Struth                                                 | _social event_ |                                   |                                                         |
 
 Color code is red for _tutorials_, green for _invited talks_ and blue for
 _contributed talks_.
