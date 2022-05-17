@@ -58,7 +58,7 @@ The schedule is indicative and still subject to changes.
 | Time           | Monday 30                       | Tuesday 31                                                   | Wednesday 1    | Thursday 2                        | Friday 3                                                |
 |----------------|---------------------------------|--------------------------------------------------------------|----------------|-----------------------------------|---------------------------------------------------------|
 |                | _Dir. top._                     | _Dyn. sys._                                                  | _TDA_          | _Logics_                          |                                                         |
-| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                  | Jonathan Barnak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                  | Jonathan Barmak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
 | 10:00--10:45   | Dmitry Kozlov                   | Thomas Wanner                                                | Magnus Botnam  | Eric Finster                      | Paige North (1h)                                        |
 | 10:45 -- 11:15 | _break_                         | _break_                                                      | _break_        | _break_                           | _break_                                                 |
 | 11:15--12:15   | Krzysztof Ziemiański            | Claudia Landi                                                | Gregory Ginot  | Amar Hadzihasanovic               |                                                         |
@@ -107,7 +107,7 @@ been incorporated into modern proof assistants.
 
 ### Dynamical/hybrid/control systems and robotics
 
-#### Jonathan Barnak & Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_
+#### Jonathan Barmak & Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_
 
 Morse theory establishes a celebrated link between classical gradient dynamics
 and the topology of the underlying phase space. It provided the motivation for
