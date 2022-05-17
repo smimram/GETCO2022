@@ -55,31 +55,29 @@ times are given in French local time (GMT+2).
 
 The schedule is indicative and still subject to changes.
 
-| Time           | Monday 30                       | Tuesday 31                                                   | Wednesday 1    | Thursday 2                        | Friday 3                                                |
-|----------------|---------------------------------|--------------------------------------------------------------|----------------|-----------------------------------|---------------------------------------------------------|
-|                | _Dir. top._                     | _Dyn. sys._                                                  | _TDA_          | _Logics_                          |                                                         |
-| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                  | Jonathan Barmak                                              | Magnus Botnam  | Eric Finster                      | Peter Giesl (1h)                                        |
-| 10:00--10:45   | Dmitry Kozlov                   | Thomas Wanner                                                | Magnus Botnam  | Eric Finster                      | Paige North (1h)                                        |
-| 10:45 -- 11:15 | _break_                         | _break_                                                      | _break_        | _break_                           | _break_                                                 |
-| 11:15--12:15   | Krzysztof Ziemiański            | Claudia Landi                                                | Gregory Ginot  | Amar Hadzihasanovic               |                                                         |
-| 12:15 -- 13:50 | _lunch_                         | _lunch_                                                      | _lunch_        | _lunch_                           | _lunch_                                                 |
-| 13:50--14:30   | M. Gabbay and G. Losa           | P. J. Chocano                                                | _social event_ | S. Rajsbaum and A. Raventós Pujol | M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin |
-| _in parallel_  | T. Kahl                         | D. Woukeng Feudjio, D. Sadowski, J. Leskiewicz and M. Mrozek | _social event_ | X. Fernandez and K. Piterman      | T. Dey, M. Mrozek and R. Slechta                        |
-| 14:30--15:30   | _breakout discussions_          | _breakout discussions_                                       | _social event_ | _breakout discussions_            | _breakout discussions_                                  |
-| 15:30--16:10   | E. Haucourt and P.-Y. Coursolle | S. Nishimura                                                 | _social event_ | A. Angel and J. Borja             | C. Calk, E. Goubault and P. Malbos                      |
-| _in parallel_  | N. Boutry                       | F. Lenzen                                                    | _social event_ | M. Przybylski and M. Mrozek       | M. Lipiński, T. Dey, M. Mrozek and R. Slechta           |
-| 16:30--17:30   | Jeremy Ledent                   | Georg Struth                                                 | _social event_ |                                   |                                                         |
+| Time           | Monday 30                                    | Tuesday 31                                                 | Wednesday 1              | Thursday 2                                     | Friday 3                                                                 |
+|----------------|----------------------------------------------|------------------------------------------------------------|--------------------------|------------------------------------------------|--------------------------------------------------------------------------|
+|                | _Dir. top._                                  | _Dyn. sys._                                                | _TDA_                    | _Logics_                                       |                                                                          |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                | [Jonathan Barmak](#barmak)                                 | [Magnus Botnam](#botnam) | [Eric Finster](#finster)                       | [Peter Giesl](#giesl)                                                    |
+| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                     | [Thomas Wanner](#barmak)                                   | Magnus Botnam            | Eric Finster                                   | [Paige North](#north)                                                    |
+| 10:45 -- 11:15 | _break_                                      | _break_                                                    | _break_                  | _break_                                        | _break_                                                                  |
+| 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)          | [Claudia Landi](#landi)                                    | [Gregory Ginot](#ginot)  | [Amar Hadzihasanovic](#hadzihasanovic)         |                                                                          |
+| 12:15 -- 13:50 | _lunch_                                      | _lunch_                                                    | _lunch_                  | _lunch_                                        | _lunch_                                                                  |
+| 13:50--14:30   | [M. Gabbay and G. Losa](#gabbay)             | [P. J. Chocano](#chocano)                                  | _social event_           | [S. Rajsbaum and A. Raventós Pujol](#raventos) | [M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin](#costa)        |
+| _in parallel_  | [T. Kahl](#kahl)                             | [T. Dey, M. Mrozek and R. Slechta](#dey)                   | _social event_           | [X. Fernandez and K. Piterman](#fernandez)     | [D. Woukeng Feudjio, D. Sadowski, J. Leskiewicz and M. Mrozek](#woukeng) |
+| 14:30--15:30   | _breakout discussions_                       | _breakout discussions_                                     | _social event_           | _breakout discussions_                         |                                                                          |
+| 15:30--16:10   | [E. Haucourt and P.-Y. Coursolle](#haucourt) | [M. Lipiński, T. Dey, M. Mrozek and R. Slechta](#lipinski) | _social event_           | [A. Angel and J. Borja](#angel)                | 14:45 -- 15:25 [C. Calk, E. Goubault and P. Malbos](#calk)                |
+| _in parallel_  | [N. Boutry](#boutry)                         | [F. Lenzen](#lenzen)                                       | _social event_           | [M. Przybylski and M. Mrozek](#przybylski)     | 14:45 -- 15:25 [S. Nishimura](#nishimura)                                 |
+| 16:30--17:30   | [Jeremy Ledent](#ledent)                     | [Georg Struth](#struth)                                    | _social event_           |                                                |                                                                          |
 
 Color code is red for _tutorials_, green for _invited talks_ and blue for
 _contributed talks_.
 
-## Tutorials
+## Day-by-day schedule
 
-The list should be completed later on.
+### Monday 30
 
-### Directed topology, concurrency and distributed computing
-
-#### Uli Fahrenberg: _Directed Topology and Concurrency_ {#fahrenberg}
+#### 9:00 -- 9:45 Uli Fahrenberg: _Directed Topology and Concurrency_ {#fahrenberg}
 
 I will introduce the basics of directed algebraic topology and how it is
 motivated by the theory of concurrent processes. I will cover directed
@@ -90,24 +88,79 @@ analogues of directed paths and homotopies. In the last part of the talk I will
 cover invariants of directed tpological spaces, such as component categories,
 directed homology, and path spaces, and their applications.
 
-### Geometric aspects of logics, higher categories and rewriting
+#### 10:00--10:45 Dmitry Kozlov {#kozlov}
 
-#### Eric Finster: _Introduction to Homotopy Type Theory_
+#### 11:15--12:15 Krzysztof Ziemiański: _Higher dimensional automata: between topology and concurrency_ {#ziemianski}
 
-In this talk, I will summarize some of the main intuitions of the homotopical
-interpretation of dependent type theory, introduced by Awodey and Warren and
-independently by Voevodsky around 15 years ago. Roughly speaking, this
-perspective reinterprets type theory not as a theory of constructive sets, but
-rather as a theory of constructive spaces up to homotopy equivalence.  In doing
-so, it explains many of the counterintuitive aspects of the behavior of equality
-in type theory and has led to the introduction of many new ideas, both
-meta-theoretical, for example in the form of previously unknown models, as well
-as practical in the form of new computational principles which have since then
-been incorporated into modern proof assistants.
+Higher dimensional automata (HDA) are precubical sets with some additional
+structure. They serve as a model for concurrency, which can be examined with
+topological methods. Executions of an HDA can be regarded both topologically, as
+certain (directed) paths on its geometric realization, and combinatorially, as
+sequences of its cells. In my talk I will compare these two approaches and
+present a nice "permutahedral" model that unifies them. This model can be
+applied to construct some invariants of HDA and to show connections between
+executions of HDAs and braid groups.
 
-### Dynamical/hybrid/control systems and robotics
+#### 13:50--14:30 M. Gabbay and G. Losa: _The (semi)topology of distributed consensus_ {#gabbay}
 
-#### Jonathan Barmak & Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_
+An analysis of distributed consensus under heterogeneous agreement requirements reveals a novel mathematical structure which is closely related to topological spaces. 
+
+#### 13:50--14:30 T. Kahl: _The homology language of a higher-dimensional automaton_ {#kahl}
+
+Higher-dimensional automata are a very expressive combinatorial-topological model of concurrency. Roughly speaking, an HDA is an ordinary automaton equipped with two- and higher-dimensional cubes representing independence or concurrency of actions. In this talk, I will introduce the homology language of an HDA, which is a graded submodule of the exterior algebra on the HDA's alphabet and which may be used to reason about the independence of processes and subsystems of the modeled concurrent system. The homology language is a directed homotopy invariant in the sense that it is invariant under certain directed maps (called cubical dimaps) that are homotopy equivalences. It can be shown that the homology language is compatible with both the tensor product of HDAs, which models the parallel composition of independent concurrent systems, and the coproduct of HDAs, which corresponds to the nondeterministic sum of concurrent systems. Using software, the homology language can be computed for HDAs modeling shared-variable systems described in the Promela language.
+
+#### 15:30--16:10 E. Haucourt and P.-Y. Coursolle: _Non-existing and ill-behaved coequalizers of locally ordered spaces_ {#haucourt}
+
+Categories of locally ordered spaces are especially well-adapted to the realiza-
+tion of most precubical sets [Fajstrup et. al., 2006], though their colimits are not
+so easy to determine (in comparison with colimits in the category of d-spaces for
+example [Grandis, 2009, 1.4.0]). We use the plural here, as the notion of a locally
+ordered space vary from an author to another, only differing according to seem-
+ingly anodyne technical details. As we explain in this article, these differences have
+dramatic consequences on colimits. In particular, we show that most categories
+of locally ordered spaces are not cocomplete, thus answering a question that was
+neglected so far. The strategy is the following: given a directed loop γ on a locally
+ordered space X, we try to identify the image of γ with a single point. If it were
+taken in the category of d-spaces, such an identification would be likely to create
+a vortex [Grandis, 2009, 1.4.7], while locally ordered space have no vortices. Con-
+cretely, the antisymmetry of local orders gets more points to be identified than in
+a mere topological quotient. However, the effect of this phenomenon is in some
+sense limited to the neighbourhood of (the image of) γ. So the existence and the
+nature of the corresponding coequalizer strongly depends on the topology around
+the image of γ. As an extreme example, if the latter forms a connected compo-
+nent, the coequalizer exists and its underlying space matches with the topological
+coequalizer.
+
+#### 15:30--16:10 N. Boutry: _Introducing PC n-Manifolds and P-well-composedness in Partially Ordered Sets_ {#boutry}
+
+In discrete topology, discrete surfaces are well-known for their strong topological and regularity properties. Their definition is recursive and checking if a poset is a discrete surface is tractable. However, a discrete surface has not any boundary point, in the sense that the neighborhood of an element of a discrete surface is also a discrete surface. In this paper, we propose then to introduce a new definition of boundary, called border, based on the definition of discrete surfaces, to allow us to introduce poset-based connected manifolds (shortly PC n-manifolds or n-PCMs), the extension of stellar/combinatorial manifolds with boundaries but in partially ordered sets. Some strong properties of this border and of PCMs are provided. 
+
+#### 16:30--17:30 Jeremy Ledent: _Simplicial Models for Multi-Agent Epistemic Logic_ {#ledent}
+
+Epistemic Logic is the modal logic of knowledge. It allows to reason about a
+finite set of agents who can know facts about the world, and about what the
+other agents know. The traditional Kripke-style semantics for epistemic logic is
+based on graphs whose vertices represent the possible worlds, and whose edges
+indicate the agents that cannot distinguish between two worlds. In this talk, I
+will present an alternative semantics for epistemic logic, based on
+combinatorial topology. The idea is to replace the Kripke graph by a simplicial
+complex, allowing for higher-dimensional connectivity between the possible
+worlds. In fact, every Kripke model can be turned into an equivalent simplicial
+model, thus uncovering its underlying geometric structure.
+
+Our notion of simplicial model is inspired from the "protocol complex" approach
+to distributed computing. I will show how our framework can be used to analyse
+distributed computing, where the agents are the processes, and the possible
+worlds are all the possible executions of the system. In order to prove
+impossibility results, one must find an epistemic logic formula representing the
+knowledge that the processes should acquire in order to solve a task; and argue
+that such knowledge cannot be achieved.
+
+This is joint work with Éric Goubault and Sergio Rajsbaum.
+
+### Tusday 31
+
+#### 9:00 -- 10:45 Jonathan Barmak and Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_ {#barmak}
 
 Morse theory establishes a celebrated link between classical gradient dynamics
 and the topology of the underlying phase space. It provided the motivation for
@@ -140,101 +193,46 @@ The tutorial consists of two parts:
   such as connection matrices.
 
 
-### Topological persistence theory
+#### 11:15--12:15 Claudia Landi:  _Computing the matching distance of multi-parameter persistence from Morse critical values_ {#landi}
 
-#### Magnus Botnan: _A mini-survey of multiparameter persistent homology_
+Multi-parameter persistence modules are promising tools in topological data
+analysis of multivariate data that still need to maintain their promises due to
+their heavy computational and theoretical intricacies. They are defined by
+applying homology to multi-filtered cell complexes. On the other hand, discrete
+Morse theory is a well-understood theory that permits reducing a cell complex to
+the critical cells of a gradient vector field. Critical cells carry all the
+relevant homological information about the input data. A connection between the
+two theories comes from the fact that the entrance values of critical cells are
+sufficient to determine the fibered rank invariant of multi-parameter
+persistence. In this talk, after reviewing such a connection, I'll consider the
+matching distance to compare the rank invariant of two persistence modules.
+I'll show recent results about the exact computation of the matching distance
+using only the geometric patterns of the entrance values of the critical cells
+in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
+Hacker, and Barbara Mahler.
 
-Persistent homology associates a family of barcodes to a filtered topological
-space. The best-known example arises when applying homology in low dimensions to
-the filtered Rips complex built on a finite metric space. There are, however,
-many situations in which it is desirable to filter a topological space by
-multiple functions, and while one can apply homology to multifiltration in a
-straightforward way, the notion of a barcode does not generalize from the
-single-parameter setting. Given that nearly all the theory in the
-single-parameter setting is built upon the idea of a barcode, the non-existence
-of a barcode has been a major obstacle in the development of multiparameter
-persistent homology. However, in recent years there has been a surge in activity
-resulting in a range of new invariants and applications in the multiparameter
-setting. In this talk, I will discuss some of these. The talk will be based on a
-recent survey on multiparameter persistent homology that I have coauthored with
-Michael Lesnick.
+#### 13:50--14:30 P. J. Chocano: _Approximating Discrete Dynamical Systems_ {#chocano}
 
-## Speakers
+Discrete dynamical systems have been proved to be a very useful tool to model different situations, but a direct study of them may be difficult. For this reason, it is important to develop computational methods to get some of their relevant information. The goal of this contributed talk is to present topological methods to study fixed points. Finite topological spaces, that are combinatorial objects (partially ordered sets), have the same homology and homotopy groups of polyhedra and can be used to reconstruct them. Therefore, the idea is to use finite spaces to approximate discrete dynamical systems given by homeomorphisms f : K → K where K is a compact polyhedron. For this purpose, we first discuss the notion of dynamical system in this combinatorial setting and then introduce a class of multivalued maps inducing morphisms in homology groups. From this, we deduce a Lefschetz fixed point theorem. Finally, we use the theory developed to study fixed points of discrete dynamical systems defined on polyhedra and give some lines of future work.
 
-The list should be completed later on.
+#### 13:50--14:30 T. Dey, M. Mrozek and R. Slechta: _Capturing Changes in Dynamical Systems with Persistent Homology_ {#dey}
 
-### Directed topology, concurrency and distributed computing
+One of the major achievements of topological data analysis is persistent homology or persistence, which is a tool that summarizes the changing homology of a sequence of simplicial complexes. In this talk, we show how to use persistence to capture the changing behavior of a sequence of combinatorial dynamical systems. Formally, we begin by computing the persistence of the so-called Conley index. The output of our method is a barcode that summarizes the evolving structure of a combinatorial dynamical system. Typically, changes in the barcode correspond to bifurcation points or a loss of isolation. We also show how to compute the persistence of the Conley-Morse graph, which permits one to capture the changing structure of a combinatorial dynamical system at different resolutions. Finally, we conclude by discussing directions for future work. 
 
-#### Jérémy Ledent: _Simplicial Models for Multi-Agent Epistemic Logic_
+#### 15:30--16:10 M. Lipiński, T. Dey, M. Mrozek and R. Slechta: _Tracking Dynamical Features via Continuation and Persistence_ {#lipinski}
 
-Epistemic Logic is the modal logic of knowledge. It allows to reason about a
-finite set of agents who can know facts about the world, and about what the
-other agents know. The traditional Kripke-style semantics for epistemic logic is
-based on graphs whose vertices represent the possible worlds, and whose edges
-indicate the agents that cannot distinguish between two worlds. In this talk, I
-will present an alternative semantics for epistemic logic, based on
-combinatorial topology. The idea is to replace the Kripke graph by a simplicial
-complex, allowing for higher-dimensional connectivity between the possible
-worlds. In fact, every Kripke model can be turned into an equivalent simplicial
-model, thus uncovering its underlying geometric structure.
+In recent years, combinatorial dynamics have become an important subject of interest due to their potential in computational methods. Forman’s combinatorial vector fields theory became a cornerstone of combinatorial models for continuous-time dynamical systems. Recently, Mrozek extended Forman’s idea by proposing a much more flexible theory of multivector fields. The theory was enriched with the combinatorial theory of the Conley index and other mathematical objects allowing an extensive study of combinatorial systems. In the following works, a prominent topological data analysis tool, the persistent homology, has been used to study the robustness of combinatorial isolated invariant sets or to track changes in the Conley index and Morse-Conley graph.
+Our current work focuses on the idea of continuation. Two isolated invariant sets are said to be related by a continuation if one can be transformed into the other by a continuous deformation of a dynamical system. In particular, the Conley index of the isolated invariant set stays intact throughout the transformation.
+Our first goal was to adapt the concept of continuation into combinatorial settings of multivector fields. To this end, we had to introduce a combinatorial counterpart of a continuous deformation of a system. Due to the finite realm of our settings, the natural choice for the minimal perturbation of a system is an atomic refinement, i.e., splitting a multivector into two smaller multivectors. This imposes a topology on the space of all multivector fields and facilitates the construction resembling the classical definition of continuation.
+Secondly, we propose a tracking protocol, a canonical way of studying the evolution of an isolated invariant set. With the method, one can follow a chosen isolated invariant set, observe how it travels in phase space, and get hints where the set is passing through a bifurcation (at least on the level given by a data or a resolution). Moreover, we present the construction in the spirit of persistent homology. In particular, we show that the continuation is a special case of the persistence of the Conley index.
 
-Our notion of simplicial model is inspired from the "protocol complex" approach
-to distributed computing. I will show how our framework can be used to analyse
-distributed computing, where the agents are the processes, and the possible
-worlds are all the possible executions of the system. In order to prove
-impossibility results, one must find an epistemic logic formula representing the
-knowledge that the processes should acquire in order to solve a task; and argue
-that such knowledge cannot be achieved.
+#### 15:30--16:10 F. Lenzen: _Efficient computation of two-parameter persistent cohomology_ {#lenzen} 
 
-This is joint work with Éric Goubault and Sergio Rajsbaum.
+Among the many developments that have led to efficient algorithms in one-parameter persistence, “clearing” has been a rather effective tool to increase efficiency. The mechanism uses the fact that in a (co)chain complex, the composition of two consecutive (co)boundary maps is zero; a basis for the (co)boundaries thus can be extended to a basis of the (co)cycles. This extension is often much less work than a computation of a basis of the (co)cycles from scratch. For many filtered simplicial complexes of practical interest, such as Vietoris-Rips complexes, this mechanism is only feasible in combination with the computation of persistent cohomology, rather than homology; an approach that also increases the efficiency of other optimization schemes, such as implicit matrix representations.
+The computation of persistent cohomology instead of homology, possibly with clearing, has not been employed successfully in the computation of two-parameter persistent (co)homology. This seems to be mainly due to the more involved structure of the underlying algebraic objects.
+We show an approach to deal with this algebraic difficulties, and develop an algorithm for the efficient computation of persistent cohomology that allows for clearing. We explain how a correspondence between two-parameter persistent homology and cohomology can be established, similar to what is known for one-parameter persistence. We show experimental results of an implementation of our approach.
 
-#### Krzysztof Ziemianski: _Higher dimensional automata: between topology and concurrency_
-
-Higher dimensional automata (HDA) are precubical sets with some additional
-structure. They serve as a model for concurrency, which can be examined with
-topological methods. Executions of an HDA can be regarded both topologically, as
-certain (directed) paths on its geometric realization, and combinatorially, as
-sequences of its cells. In my talk I will compare these two approaches and
-present a nice "permutahedral" model that unifies them. This model can be
-applied to construct some invariants of HDA and to show connections between
-executions of HDAs and braid groups.
-
-### Geometric aspects of logics, higher categories and rewriting
-
-#### Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_
-
-In the polygraph approach to rewriting, the fundamental structures of rewriting
-theory are “directed complexes” whose cells have an orientation in all higher
-dimensions. Unfortunately, the polygraph model of “directed spaces” does not
-admit a sound “orientation-forgetting” interpretation in a standard model of
-spaces, which would turn rewrites into homotopies in the expected way.  In this
-tutorial talk, I will give an introduction to diagrammatic sets, an alternative
-model that is provably sound for homotopical algebra, while remaining close in
-practice to the polygraph model. I will briefly discuss its combinatorial
-underpinning and interpretation in topological spaces, then focus on practical
-aspects and differences from the polygraph model. If there is time, I will also
-discuss the “smash Gray product” construction of pointed diagrammatic sets and
-its intriguing application to higher algebra.
-
-#### Paige North: _Directed homotopy type theory_
-
-In this talk, I will describe the development of a directed homotopy type
-theory. The aim is to capture (higher) categories and directed topological
-spaces as models of the theory, and thus use it to study phenomena (such as
-concurrency and rewriting) of interest to this community. To get this type
-theory, the identity type of Martin-Löf is modified to produce a "directed"
-identity type. The terms of this new directed identity type behave analogously
-to those of the usual Martin-Löf identity type: they can be composed, but not
-inverted. This has semantics in the category of categories in which the directed
-identity type is interpreted by hom-sets. I will also talk about
-work-in-progress in which techniques of modal type theory are used to modify the
-underlying syntax to allow for different kinds of transport: forward along
-directed identities, backward along directed identities, and along (usual,
-undirected) identities. These are reflected in the semantics, for example in
-Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
-isofibrations.
-
-#### Georg Struth (University of Sheffield, UK and Collegium de Lyon): _Catoids as a Basis for Algebras of Programs_
+#### 16:30--17:30 Georg Struth: _Catoids as a Basis for Algebras of Programs_ {#struth}
 
 Algebras of programs, such as variants of Kleene algebras,
 relation algebras or quantales, are useful for program correctness and
@@ -273,10 +271,98 @@ Cameron Calk, James Cranch, Simon Doherty, Brijesh Dongol, Uli Fahrenberg, Ian
 Hayes, Christian Johansen, Philippe Malbos, Damien Pous and Krzysztof Ziemianski
 for their collaboration.
 
-### Dynamical/hybrid/control systems and robotics
+### Wednesday 1
 
-#### Peter Giesl (University of Sussex): _Computation of Lyapunov functions and contraction metrics for dynamical systems_
+#### 9:00 -- 10:45 Magnus Botnam: _A mini-survey of multiparameter persistent homology_ {#botnam}
+
+Persistent homology associates a family of barcodes to a filtered topological
+space. The best-known example arises when applying homology in low dimensions to
+the filtered Rips complex built on a finite metric space. There are, however,
+many situations in which it is desirable to filter a topological space by
+multiple functions, and while one can apply homology to multifiltration in a
+straightforward way, the notion of a barcode does not generalize from the
+single-parameter setting. Given that nearly all the theory in the
+single-parameter setting is built upon the idea of a barcode, the non-existence
+of a barcode has been a major obstacle in the development of multiparameter
+persistent homology. However, in recent years there has been a surge in activity
+resulting in a range of new invariants and applications in the multiparameter
+setting. In this talk, I will discuss some of these. The talk will be based on a
+recent survey on multiparameter persistent homology that I have coauthored with
+Michael Lesnick.
+
+#### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
+
+A first goal of the talk will be to highlight the relationship between level
+sets persistence theory (which are sheaf theoretic naturally) with a certain
+type of 2-parameter persistence theory; precisely an equivalence between the
+first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
+how to generalize this idea in higher parameter persistence introducing a
+specific kind of higher parameter persistence with homotopical properties. This
+is based on joint work with Nicoals Berkouk and Steve Oudot.
+
+### Thursday 2
+
+#### 9:00 -- 10:45 Eric Finster: _Introduction to Homotopy Type Theory_ {#finster}
+
+In this talk, I will summarize some of the main intuitions of the homotopical
+interpretation of dependent type theory, introduced by Awodey and Warren and
+independently by Voevodsky around 15 years ago. Roughly speaking, this
+perspective reinterprets type theory not as a theory of constructive sets, but
+rather as a theory of constructive spaces up to homotopy equivalence.  In doing
+so, it explains many of the counterintuitive aspects of the behavior of equality
+in type theory and has led to the introduction of many new ideas, both
+meta-theoretical, for example in the form of previously unknown models, as well
+as practical in the form of new computational principles which have since then
+been incorporated into modern proof assistants.
+
+#### 11:15--12:15 Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_ {#hadzihasanovic}
+
+In the polygraph approach to rewriting, the fundamental structures of rewriting
+theory are “directed complexes” whose cells have an orientation in all higher
+dimensions. Unfortunately, the polygraph model of “directed spaces” does not
+admit a sound “orientation-forgetting” interpretation in a standard model of
+spaces, which would turn rewrites into homotopies in the expected way.  In this
+tutorial talk, I will give an introduction to diagrammatic sets, an alternative
+model that is provably sound for homotopical algebra, while remaining close in
+practice to the polygraph model. I will briefly discuss its combinatorial
+underpinning and interpretation in topological spaces, then focus on practical
+aspects and differences from the polygraph model. If there is time, I will also
+discuss the “smash Gray product” construction of pointed diagrammatic sets and
+its intriguing application to higher algebra.
+
+#### 13:50--14:30 S. Rajsbaum and A. Raventós Pujol: _Arrow’s Impossibility theorem: topological perspectives_ {#raventos}
+
+
+
+#### 13:50--14:30 X. Fernandez and K. Piterman: _The persistent fundamental group of point clouds_ {#fernandez}
+
+We present an efficient algorithm based on discrete Morse theory to describe the persistent fundamental group of a finite metric space, in terms of group presentations.
+Our technique provides a tool to infer properties of the fundamental group of a topological space from a (possibly noisy) sample of data points, extending the scope of existing methods in topological data analysis such as persistent homology.
+
+#### 15:30--16:10 A. Angel and J. Borja: _Evasiveness of graph properties and graphs on 2p vertices_ {#angel}
+
+A property of graphs on $n$ vertices is said to be evasive if its query complexity is the maximum $n(n-1)/2$. The evasiveness conjecture for graph properties asserts that every non-trivial monotone graph property is evasive.
+
+Kahn, Saks and Sturtevant in the paper "A topological approach to evasiveness" showed a connection between this complexity problem and topology. To each monotone graph property, there is an associated simplicial complex and it is proved that potential monotone non-evasive graph properties have a collapsible associated simplicial complex. With the help of some special groups: the Oliver groups, they prove the validity of conjecture when the number of vertices n is a prime power. They also prove the $6$ vertices case. It remains open in the remaining cases, even for $n=10$ vertices.
+
+In this talk, for graphs on 2p vertices, where $p$ is prime, we study potential counterexamples to the conjecture, by studying the size of the automorphism group of graphs of that size, we give estimations of the Euler characteristic of simplicial complexes associated to potential non-evasive monotone graph properties.
+
+This is based on the article "The Evasiveness Conjecture and Graphs on 2p Vertices". Journal of graph theory 91 (1), pp. 35-52.
+
+We also undertake the study of bounds on the minimal degree of a polynomial with $\mathbb{F}_p$-coefficients that calculates potential counterexamples to the evasiveness conjecture for graphs on $2p$-vertices.
+
+#### 15:30--16:10 M. Przybylski and M. Mrozek: _The Szymczak functor on the category of finite relations_ {#przybylski}
+
+The Szymczak functor is a tool used to construct Conley index for discrete-time dynamical systems. Due to a certain key property, it enables the correct definition of the index. Moreover, the functor is universal in the sense that any other functor with this property factorizes through the Szymczak functor. The universality of the Szymczak functor shows its generality, but is also responsible for its computational weakness, because there is no general method to tell whether two objects in the Szymczak category (i.e. target category of the functor) are isomorphic or not.
  
+In this talk, I will present an algorithmizable classification of isomorphism classes in the Szymczak category over the category of finite sets with arbitrary relations as morphisms. Such a classification may provide a new method to study multivalued dynamical systems represented by relations. These multivalued dynamical systems arise naturally from a dynamics given by the data.
+ 
+This is joint work with Marian Mrozek.
+
+### Friday 3
+
+#### 9:00 -- 9:45 Peter Giesl: _Computation of Lyapunov functions and contraction metrics for dynamical systems_ {#giesl}
+
 We consider a general dynamical system, either continuous-time, given by
 solutions of an ordinary differential equation, or discrete-time, given by the
 iteration of a map. The long-term behaviour can be characterised by attractors
@@ -294,35 +380,42 @@ particular, I will present computational methods using meshfree collocation with
 Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
 functions, compare them and illustrate them with examples.
 
-### Topological persistence theory
+#### 10:00--10:45 Paige North: _Directed homotopy type theory_ {#north}
 
-#### Gregory Ginot: _Homotopical and sheaf theoretic point of view on multi-parameter persistence_
+In this talk, I will describe the development of a directed homotopy type
+theory. The aim is to capture (higher) categories and directed topological
+spaces as models of the theory, and thus use it to study phenomena (such as
+concurrency and rewriting) of interest to this community. To get this type
+theory, the identity type of Martin-Löf is modified to produce a "directed"
+identity type. The terms of this new directed identity type behave analogously
+to those of the usual Martin-Löf identity type: they can be composed, but not
+inverted. This has semantics in the category of categories in which the directed
+identity type is interpreted by hom-sets. I will also talk about
+work-in-progress in which techniques of modal type theory are used to modify the
+underlying syntax to allow for different kinds of transport: forward along
+directed identities, backward along directed identities, and along (usual,
+undirected) identities. These are reflected in the semantics, for example in
+Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
+isofibrations.
 
-A first goal of the talk will be to highlight the relationship between level
-sets persistence theory (which are sheaf theoretic naturally) with a certain
-type of 2-parameter persistence theory; precisely an equivalence between the
-first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
-how to generalize this idea in higher parameter persistence introducing a
-specific kind of higher parameter persistence with homotopical properties. This
-is based on joint work with Nicoals Berkouk and Steve Oudot.
+#### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
 
-#### Claudia Landi: _Computing the matching distance of multi-parameter persistence from Morse critical values_
+Full coverage of an area of interest is a common task for an autonomous robot. Estimating the area explored by the robot is indeed essential for determining if path-planning algorithms lead to complete coverage. In the presentation we are applying for, using a set membership approach, we propose a method for a guaranteed estimation of the area explored by an autonomous robot. The proposed algorithm is able to determine how many times each portion of the space has been sensed by the robot using a novel approach based on topological properties of the environment that has been scanned, and more precisely an estimation of certain winding numbers. This property is useful for localization inside homogeneous environments, e.g. the underwater environment, and assessment for potential revisiting missions. We demonstrate the efficiency of the presented approach on a real dataset acquired by an autonomous underwater robot.
 
-Multi-parameter persistence modules are promising tools in topological data
-analysis of multivariate data that still need to maintain their promises due to
-their heavy computational and theoretical intricacies. They are defined by
-applying homology to multi-filtered cell complexes. On the other hand, discrete
-Morse theory is a well-understood theory that permits reducing a cell complex to
-the critical cells of a gradient vector field. Critical cells carry all the
-relevant homological information about the input data. A connection between the
-two theories comes from the fact that the entrance values of critical cells are
-sufficient to determine the fibered rank invariant of multi-parameter
-persistence. In this talk, after reviewing such a connection, I'll consider the
-matching distance to compare the rank invariant of two persistence modules.
-I'll show recent results about the exact computation of the matching distance
-using only the geometric patterns of the entrance values of the critical cells
-in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
-Hacker, and Barbara Mahler.
+#### 13:50--14:30 D. Woukeng Feudjio, D. Sadowski, J. Leskiewicz and M. Mrozek: _Computational approach to dynamics based on combinatorial multivector fields_ {#woukeng}
+
+A computational study of dynamical systems either given explicitly by a formula or only via a finite sample requires combinatorial tool. Among such tools is the concept of combinatorial multivector field, an extension of Forman’s concept of combinatorial vector field which may be studied by algorithmic means. The construction of a combinatorial multivector field combined with transversality may lead to computer-assisted proofs. However, the construction itself is a challenge that we intend to address. In particular, the construction of a multivector enclosing a stationary point, if not taken care of by special means, may lead to a loss of information at the end of the computation of our combinatorial multivector field, due to some properties that multivectors must satisfy. Hence we will first introduce an algorithm for the construction of a transversal polytope around each stationary point of some 2-D dynamical systems. Then, we will introduce an algorithm constructing combinatorial multivector fields from a 2-D vector field on a triangulation of a compact subset of R^2, with certain transversality relation with respect to the flow. A similar construction but without transversality is also possible in the case of a dynamical system known only from a sample. We will proceed with the computation of Morse sets to show the features we can extract from our systems or from the data using those algorithms. The transversal polytope will be necessary while computing the Morse sets since it will allow us to easily separate all the stationary points with other features such as periodic orbits during the computation of Morse sets. This will lead us to computer-assisted proof of the existence of periodic orbits in some dynamical systems. Some examples of computation will be given at the end of the presentation for the case of 2-D dynamical systems such as the Van der Pol system for some fixed parameters and some sampled datasets.
+
+#### 14:45 -- 15:25 S. Nishimura: _Proving Unsolvability of Set Agreement Task with Epistemic mu-Calculus_ {#nishimura}
+
+This paper shows, in the framework of the logical method, the unsolvability of $k$-set agreement task by devising a suitable formula of epistemic logic. The unsolvability of $k$-set agreement task is a well-known fact, which is a direct consequence of Sperner's lemma, a classic result from combinatorial topology. However, Sperner's lemma does not provide a good intuition for the unsolvability, hiding it behind the elegance of its combinatorial statement. The logical method has a merit that it can account for the reason of unsolvability by a concrete formula, but no epistemic formula for the general unsolvability result for $k$-set agreement task has been presented so far.
+
+We employ a variant of epistemic $\mu$-calculus, which extends the standard epistemic logic with distributed knowledge operators and propositional fixpoints, as the formal language of logic. With these extensions, we can provide an epistemic $\mu$-calculus formula that mentions higher-dimensional connectivity, which is essential in the original proof of Sperner's lemma, and thereby show that $k$-set agreement tasks are not solvable even by multi-round protocols. Furthermore, we also show that the same formula applies to establish the unsolvability for $k$-concurrency, a submodel of the 2-round protocol.
+
+
+#### 14:45 -- 15:25 C. Calk, E. Goubault and P. Malbos: _Persistence and the classification of directed spaces_ {#calk}
+
+In this work, we explore links between natural homology and persistent homology. The former is an algebraic invariant of directed spaces, which constitute a semantic model of concurrent programs. The latter was developed in the context of topological data analysis, and extracts topological properties of point-cloud data sets while eliminating noise. In both approaches, the evolution homological properties are tracked through a sequence of inclusions of usual topological spaces. Exploiting this similarity, we show that natural homology may be considered a persistence object, and may be calculated as a colimit of uni-dimensional persistent homologies along traces. Finally, we suggest further links and avenues of future work in this direction.
 
 ## Venue
 
