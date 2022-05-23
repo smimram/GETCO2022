@@ -69,7 +69,7 @@ The schedule is indicative and still subject to changes.
 | 16:30--17:30   | [Jeremy Ledent](#ledent)                             | [Georg Struth](#struth)                                       | _social event_           |                                                                          |                                                                                         |
 
 Color code is red for _tutorials_, green for _invited talks_ and blue for
-_contributed talks_.
+_contributed talks_. Some sessions are in parallel (indicated by //).
 
 ## Day-by-day schedule
 
