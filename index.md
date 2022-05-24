@@ -59,7 +59,7 @@ The schedule is indicative and still subject to changes.
 |----------------|------------------------------------------------------|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |                | _Dir. top._                                          | _Dyn. sys._                                                   | _TDA_                    | _Logics_                                                                 |                                                                                         |
 | 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnam](#botnam) | [Eric Finster](#finster)                                                 | [Peter Giesl](#giesl)                                                                   |
-| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | Magnus Botnam            | [Eric Finster](#finster)                                                             | [Paige North](#north)                                                                   |
+| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnam](#botnam) | [Eric Finster](#finster)                                                             | [Paige North](#north)                                                                   |
 | 10:45 -- 11:15 | _break_                                              | _break_                                                       | _break_                  | _break_                                                                  | _break_                                                                                 |
 | 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)                  | [Claudia Landi](#landi)                                       | [Gregory Ginot](#ginot)  | [Amar Hadzihasanovic](#hadzihasanovic)                                   |                                                                                         |
 | 12:15 -- 13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
@@ -432,6 +432,22 @@ Some recommendations of nearby hotels are
 - [Hôtel Restaurant Campanile Porte D'Italie](https://goo.gl/maps/FQP4wjRjWSd3i3mWA)
 - [B&B Hotel](https://g.page/bb-hotel-ivry-sur-seine)
 - [Ibis Budget Paris Porte d'Italie Est](https://goo.gl/maps/76PgC8vGKEMdme6YA)
+
+## Social event
+
+A visit of the [musée du quai Branly](https://www.quaibranly.fr/en/) is
+organized. The bus leaves at 15h30 from EPITA, there is some free time (to visit
+gardens, the banks of Seine or see the Eiffel tower), and then the guided tour
+of the museum starts at 17h20. The guided tour will be in two groups, one in
+English and one in French. The bus will finally leave to the restaurant.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.859348514458!2d2.2957053158599563!3d48.86089240848423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fe0da76cf63%3A0xb7949d5df6b04424!2sMus%C3%A9e%20du%20quai%20Branly%20-%20Jacques%20Chirac!5e0!3m2!1sen!2sfr!4v1653392364516!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+The dinner will take place in the [Zeyer
+restaurant](https://brasserielezeyer.com/en/) located 62 rue d'Alesia 75014
+Paris, starting from 19h.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.580820338705!2d2.324337515859077!3d48.828058910795555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671b196d1e4d3%3A0xb06f91e3625cdc6c!2sZeyer!5e0!3m2!1sen!2sfr!4v1653392405749!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Publication
 
