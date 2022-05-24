@@ -452,7 +452,36 @@ Paris, starting from 19h30.
 ## Publication
 
 A special issue of a journal will be dedicated to selected papers from the
-conference.
+conference. The deadline is the 31st of January 2023.
+
+> The last two decades have witnessed a fruitful interplay between certain
+> qualitative ideas and methods from geometric and topological areas on one side
+> and from aspects of theoretical computer science on the other. Simplicial and
+> cubical models in distributed computing and in concurrency theory are amenable
+> to investigations using methods from algebraic topology – with a twist!
+> Similar developments have emerged with point of departure in logics and
+> rewriting, often through the lens of higher category theory and/or connected
+> to Homotopy Type Theory. In a different line of research, the analysis and
+> investigation of (hybrid variants of) control systems and robotics profit from
+> developments in classical and combinatorial versions of Conley and Morse
+> theory. Moreover, topological methods significantly contributed to the
+> emergence of rigorous numerics as part of computer science with fundamental
+> implications for control problems. It turns out that quite different aspects
+> and topics from Computer Science lead to similar models and lines of
+> topological investigations.
+>
+> Topics of interest include, but are not limited to
+>
+> - Directed Topology and Higher Dimensional Automata
+> - Decision Tasks in Distributed Computing through combinatorial algebraic
+>   topology
+> - Simplicial models for Epistemic Logics
+> - Higher Categories and Rewriting
+> - (Directed) Homotopy Type Theory
+> - Coordination of Sensor Networks via Topology
+> - Robotics and Topology
+> - Topological properties of continuous and  combinatorial Dynamical Systems
+> - Computer assisted proofs in dynamics based on topological methods
 
 ## History
 
