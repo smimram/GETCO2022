@@ -452,7 +452,7 @@ Paris, starting from 19h30.
 ## Publication
 
 A special issue of a journal will be dedicated to selected papers from the
-conference. The deadline is the 31st of January 2023.
+conference. The deadline is the **31st of January 2023**.
 
 > The last two decades have witnessed a fruitful interplay between certain
 > qualitative ideas and methods from geometric and topological areas on one side
@@ -482,6 +482,15 @@ conference. The deadline is the 31st of January 2023.
 > - Robotics and Topology
 > - Topological properties of continuous and  combinatorial Dynamical Systems
 > - Computer assisted proofs in dynamics based on topological methods
+>
+> Guest editors:
+>
+> - Éric Goubault (École Polytechnique Paris, France)
+> - Marian Mrozek (Jagellonian University, Krakow, Poland)
+>
+> APCT editor:
+>
+> - Martin Raussen (Aalborg University, Denmark)
 
 ## History
 
