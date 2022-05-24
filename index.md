@@ -439,13 +439,13 @@ A visit of the [musée du quai Branly](https://www.quaibranly.fr/en/) is
 organized. The bus leaves at 15h30 from EPITA, there is some free time (to visit
 gardens, the banks of Seine or see the Eiffel tower), and then the guided tour
 of the museum starts at 17h20. The guided tour will be in two groups, one in
-English and one in French. The bus will finally leave to the restaurant.
+English and one in French. The bus will finally leave at 19h to the restaurant.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2624.859348514458!2d2.2957053158599563!3d48.86089240848423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66fe0da76cf63%3A0xb7949d5df6b04424!2sMus%C3%A9e%20du%20quai%20Branly%20-%20Jacques%20Chirac!5e0!3m2!1sen!2sfr!4v1653392364516!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 The dinner will take place in the [Zeyer
 restaurant](https://brasserielezeyer.com/en/) located 62 rue d'Alesia 75014
-Paris, starting from 19h.
+Paris, starting from 19h30.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2626.580820338705!2d2.324337515859077!3d48.828058910795555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e671b196d1e4d3%3A0xb06f91e3625cdc6c!2sZeyer!5e0!3m2!1sen!2sfr!4v1653392405749!5m2!1sen!2sfr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
