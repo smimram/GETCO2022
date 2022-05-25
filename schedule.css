@@ -25,3 +25,7 @@ table tbody tr+tr+tr+tr+tr+tr+tr td+td {
 table tbody tr+tr+tr+tr+tr+tr+tr+tr+tr+tr td+td {
     background-color: palegreen;
 }
+
+table tbody tr+tr+tr+tr+tr+tr+tr+tr+tr+tr+tr td+td {
+    background-color: inherit;
+}

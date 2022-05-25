@@ -67,6 +67,7 @@ The schedule is indicative and still subject to changes.
 | 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45 -- 15:25 [Calk-Goubault-Malbos](#calk) // [Nishimura](#nishimura)                 |
 | 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Angel-Borja](#angel) // [Przybylski-Mrozek](#przybylski)                |                                                                                         |
 | 16:30--17:30   | [Jeremy Ledent](#ledent)                             | [Georg Struth](#struth)                                       | _social event_           |                                                                          |                                                                                         |
+| _later_ | | _cocktail reception_ | _conference dinner_ | | |
 
 Color code is red for _tutorials_, green for _invited talks_ and blue for
 _contributed talks_. Some sessions are in parallel (indicated by //).
