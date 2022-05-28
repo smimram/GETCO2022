@@ -239,6 +239,8 @@ using only the geometric patterns of the entrance values of the critical cells
 in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
 Hacker, and Barbara Mahler.
 
+[slides](slides/landi.pdf)
+
 #### 13:50--14:30 P. J. Chocano: _Approximating Discrete Dynamical Systems_ {#chocano}
 
 Discrete dynamical systems have been proved to be a very useful tool to model
@@ -504,6 +506,8 @@ particular, I will present computational methods using meshfree collocation with
 Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
 functions, compare them and illustrate them with examples.
 
+[slides](slides/giesl.pdf)
+
 #### 10:00--10:45 Paige North: _Directed homotopy type theory_ {#north}
 
 In this talk, I will describe the development of a directed homotopy type
@@ -588,6 +592,7 @@ thereby show that $k$-set agreement tasks are not solvable even by multi-round
 protocols. Furthermore, we also show that the same formula applies to establish
 the unsolvability for $k$-concurrency, a submodel of the 2-round protocol.
 
+[slides](slides/nishimura.pdf)
 
 #### 14:45 -- 15:25 C. Calk, E. Goubault and P. Malbos: _Persistence and the classification of directed spaces_ {#calk}
 

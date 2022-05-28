@@ -6,8 +6,8 @@ ci:
 	$(MAKE) upload
 
 upload: index.html
-	scp index.html $(wildcard *.css) lix:.webdir/getco22/
-	scp CFP.md lix:.webdir/getco22/CFP.txt
+	rsync -avz index.html $(wildcard *.css) slides lix:.webdir/getco22/
+	rsync -avz CFP.md lix:.webdir/getco22/CFP.txt
 
 %.html: %.md
 	pandoc $< -s --toc --toc-depth=2 --css pandoc.css --css schedule.css -o $@
