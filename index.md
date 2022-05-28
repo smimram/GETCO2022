@@ -89,6 +89,10 @@ directed homology, and path spaces, and their applications.
 
 #### 10:00--10:45 Dmitry Kozlov {#kozlov}
 
+In this short tutorial I will sketch the simplicial approach to theoretical distributed computing.
+Specifically, I will look at the notion of protocol complexes and open problems related
+to them and the standard task Weak Symmetry Breaking.
+
 #### 11:15--12:15 Krzysztof Ziemiański: _Higher dimensional automata: between topology and concurrency_ {#ziemianski}
 
 Higher dimensional automata (HDA) are precubical sets with some additional
