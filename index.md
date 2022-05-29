@@ -87,6 +87,8 @@ analogues of directed paths and homotopies. In the last part of the talk I will
 cover invariants of directed tpological spaces, such as component categories,
 directed homology, and path spaces, and their applications.
 
+[slides](slides/fahrenberg.pdf)
+
 #### 10:00--10:45 Dmitry Kozlov {#kozlov}
 
 In this short tutorial I will sketch the simplicial approach to theoretical distributed computing.
