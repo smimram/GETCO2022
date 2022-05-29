@@ -58,8 +58,8 @@ The schedule is indicative and still subject to changes.
 | Time           | Monday 30                                            | Tuesday 31                                                    | Wednesday 1              | Thursday 2                                                               | Friday 3                                                                                |
 |----------------|------------------------------------------------------|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |                | _Dir. top._                                          | _Dyn. sys._                                                   | _TDA_                    | _Logics_                                                                 |                                                                                         |
-| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnam](#botnam) | [Eric Finster](#finster)                                                 | [Peter Giesl](#giesl)                                                                   |
-| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnam](#botnam) | [Eric Finster](#finster)                                                             | [Paige North](#north)                                                                   |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                 | [Peter Giesl](#giesl)                                                                   |
+| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                             | [Paige North](#north)                                                                   |
 | 10:45 -- 11:15 | _break_                                              | _break_                                                       | _break_                  | _break_                                                                  | _break_                                                                                 |
 | 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)                  | [Claudia Landi](#landi)                                       | [Gregory Ginot](#ginot)  | [Amar Hadzihasanovic](#hadzihasanovic)                                   |                                                                                         |
 | 12:15 -- 13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
@@ -222,6 +222,7 @@ The tutorial consists of two parts:
   to establishing recurrence in classical dynamics, and describe advanced topics
   such as connection matrices.
 
+[slides](slides/barmak.pdf)
 
 #### 11:15--12:15 Claudia Landi:  _Computing the matching distance of multi-parameter persistence from Morse critical values_ {#landi}
 
@@ -370,7 +371,7 @@ for their collaboration.
 
 ### Wednesday 1
 
-#### 9:00 -- 10:45 Magnus Botnam: _A mini-survey of multiparameter persistent homology_ {#botnam}
+#### 9:00 -- 10:45 Magnus Botnan: _A mini-survey of multiparameter persistent homology_ {#botnan}
 
 Persistent homology associates a family of barcodes to a filtered topological
 space. The best-known example arises when applying homology in low dimensions to
@@ -386,6 +387,8 @@ resulting in a range of new invariants and applications in the multiparameter
 setting. In this talk, I will discuss some of these. The talk will be based on a
 recent survey on multiparameter persistent homology that I have coauthored with
 Michael Lesnick.
+
+[full paper](https://arxiv.org/abs/2203.14289)
 
 #### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
 
