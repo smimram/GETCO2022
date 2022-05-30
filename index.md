@@ -135,25 +135,26 @@ shared-variable systems described in the Promela language.
 
 #### 15:30--16:10 E. Haucourt and P.-Y. Coursolle: _Non-existing and ill-behaved coequalizers of locally ordered spaces_ {#haucourt}
 
-Categories of locally ordered spaces are especially well-adapted to the realiza-
-tion of most precubical sets [Fajstrup et. al., 2006], though their colimits are not
-so easy to determine (in comparison with colimits in the category of d-spaces for
-example [Grandis, 2009, 1.4.0]). We use the plural here, as the notion of a locally
-ordered space vary from an author to another, only differing according to seem-
-ingly anodyne technical details. As we explain in this article, these differences have
-dramatic consequences on colimits. In particular, we show that most categories
-of locally ordered spaces are not cocomplete, thus answering a question that was
-neglected so far. The strategy is the following: given a directed loop γ on a locally
-ordered space X, we try to identify the image of γ with a single point. If it were
-taken in the category of d-spaces, such an identification would be likely to create
-a vortex [Grandis, 2009, 1.4.7], while locally ordered space have no vortices. Con-
-cretely, the antisymmetry of local orders gets more points to be identified than in
-a mere topological quotient. However, the effect of this phenomenon is in some
-sense limited to the neighbourhood of (the image of) γ. So the existence and the
-nature of the corresponding coequalizer strongly depends on the topology around
-the image of γ. As an extreme example, if the latter forms a connected compo-
-nent, the coequalizer exists and its underlying space matches with the topological
-coequalizer.
+Categories of locally ordered spaces are especially well-adapted to the
+realization of most precubical sets [Fajstrup et. al., 2006], though their
+colimits are not so easy to determine (in comparison with colimits in the
+category of d-spaces for example [Grandis, 2009, 1.4.0]). We use the plural
+here, as the notion of a locally ordered space vary from an author to another,
+only differing according to seemingly anodyne technical details. As we explain
+in this article, these differences have dramatic consequences on colimits. In
+particular, we show that most categories of locally ordered spaces are not
+cocomplete, thus answering a question that was neglected so far. The strategy is
+the following: given a directed loop $γ$ on a locally ordered space $X$, we try
+to identify the image of $γ$ with a single point. If it were taken in the
+category of d-spaces, such an identification would be likely to create a vortex
+[Grandis, 2009, 1.4.7], while locally ordered space have no
+vortices. Concretely, the antisymmetry of local orders gets more points to be
+identified than in a mere topological quotient. However, the effect of this
+phenomenon is in some sense limited to the neighbourhood of (the image of)
+$γ$. So the existence and the nature of the corresponding coequalizer strongly
+depends on the topology around the image of $γ$. As an extreme example, if the
+latter forms a connected component, the coequalizer exists and its underlying
+space matches with the topological coequalizer.
 
 #### 15:30--16:10 N. Boutry: _Introducing PC n-Manifolds and P-well-composedness in Partially Ordered Sets_ {#boutry}
 
@@ -164,7 +165,7 @@ surface has not any boundary point, in the sense that the neighborhood of an
 element of a discrete surface is also a discrete surface. In this paper, we
 propose then to introduce a new definition of boundary, called border, based on
 the definition of discrete surfaces, to allow us to introduce poset-based
-connected manifolds (shortly PC n-manifolds or n-PCMs), the extension of
+connected manifolds (shortly PC $n$-manifolds or $n$-PCMs), the extension of
 stellar/combinatorial manifolds with boundaries but in partially ordered
 sets. Some strong properties of this border and of PCMs are provided.
 
@@ -324,7 +325,7 @@ scratch. For many filtered simplicial complexes of practical interest, such as
 Vietoris-Rips complexes, this mechanism is only feasible in combination with the
 computation of persistent cohomology, rather than homology; an approach that
 also increases the efficiency of other optimization schemes, such as implicit
-matrix representations.  The computation of persistent cohomology instead of
+matrix representations. The computation of persistent cohomology instead of
 homology, possibly with clearing, has not been employed successfully in the
 computation of two-parameter persistent (co)homology. This seems to be mainly
 due to the more involved structure of the underlying algebraic objects.  We show
@@ -456,7 +457,7 @@ A property of graphs on $n$ vertices is said to be evasive if its query
 complexity is the maximum $n(n-1)/2$. The evasiveness conjecture for graph
 properties asserts that every non-trivial monotone graph property is evasive.
 
-Kahn, Saks and Sturtevant in the paper "A topological approach to evasiveness"
+Kahn, Saks and Sturtevant in the paper _A topological approach to evasiveness_
 showed a connection between this complexity problem and topology. To each
 monotone graph property, there is an associated simplicial complex and it is
 proved that potential monotone non-evasive graph properties have a collapsible
@@ -465,14 +466,15 @@ groups, they prove the validity of conjecture when the number of vertices n is a
 prime power. They also prove the $6$ vertices case. It remains open in the
 remaining cases, even for $n=10$ vertices.
 
-In this talk, for graphs on 2p vertices, where $p$ is prime, we study potential
-counterexamples to the conjecture, by studying the size of the automorphism
-group of graphs of that size, we give estimations of the Euler characteristic of
-simplicial complexes associated to potential non-evasive monotone graph
-properties.
+In this talk, for graphs on $2p$ vertices, where $p$ is prime, we study
+potential counterexamples to the conjecture, by studying the size of the
+automorphism group of graphs of that size, we give estimations of the Euler
+characteristic of simplicial complexes associated to potential non-evasive
+monotone graph properties.
 
-This is based on the article "The Evasiveness Conjecture and Graphs on $2p$
-Vertices". Journal of graph theory 91 (1), pp. 35-52.
+This is based on the article _[The Evasiveness Conjecture and Graphs on $2p$
+Vertices](https://arxiv.org/abs/1603.04412)_. Journal of graph theory 91 (1),
+pp. 35-52.
 
 We also undertake the study of bounds on the minimal degree of a polynomial with
 $\mathbb{F}_p$-coefficients that calculates potential counterexamples to the
@@ -535,8 +537,8 @@ work-in-progress in which techniques of modal type theory are used to modify the
 underlying syntax to allow for different kinds of transport: forward along
 directed identities, backward along directed identities, and along (usual,
 undirected) identities. These are reflected in the semantics, for example in
-Cat, as the lifting properties of Grothendieck opfibrations, fibrations, and
-isofibrations.
+$\mathbf{Cat}$, as the lifting properties of Grothendieck opfibrations,
+fibrations, and isofibrations.
 
 #### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
 
@@ -570,12 +572,12 @@ satisfy. Hence we will first introduce an algorithm for the construction of a
 transversal polytope around each stationary point of some 2-D dynamical
 systems. Then, we will introduce an algorithm constructing combinatorial
 multivector fields from a 2-D vector field on a triangulation of a compact
-subset of R^2, with certain transversality relation with respect to the flow. A
-similar construction but without transversality is also possible in the case of
-a dynamical system known only from a sample. We will proceed with the
-computation of Morse sets to show the features we can extract from our systems
-or from the data using those algorithms. The transversal polytope will be
-necessary while computing the Morse sets since it will allow us to easily
+subset of $\mathbb{R}^2$, with certain transversality relation with respect to
+the flow. A similar construction but without transversality is also possible in
+the case of a dynamical system known only from a sample. We will proceed with
+the computation of Morse sets to show the features we can extract from our
+systems or from the data using those algorithms. The transversal polytope will
+be necessary while computing the Morse sets since it will allow us to easily
 separate all the stationary points with other features such as periodic orbits
 during the computation of Morse sets. This will lead us to computer-assisted
 proof of the existence of periodic orbits in some dynamical systems. Some
