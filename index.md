@@ -275,6 +275,8 @@ groups. From this, we deduce a Lefschetz fixed point theorem. Finally, we use
 the theory developed to study fixed points of discrete dynamical systems defined
 on polyhedra and give some lines of future work.
 
+[slides](slides/chocano.pdf)
+
 #### 13:50--14:30 T. Dey, M. Mrozek and R. Slechta: _Capturing Changes in Dynamical Systems with Persistent Homology_ {#dey}
 
 One of the major achievements of topological data analysis is persistent
