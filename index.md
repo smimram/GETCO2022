@@ -26,12 +26,14 @@ Special emphasis will be on
 
 ## Participation
 
-The conference is _hybrid_. Onsite participation is encouraged, but an option
-for online participation will be provided.
+The conference is _hybrid_. If are not registered, you can still have the links
+for the online conference by mailing the organizers.
 
+<!--
 **Registration is free but mandatory** on [the dedicated
 form](https://forms.gle/M4RBGrM8rauDfGHg8). Deadline for registering is Monday,
 **25 April**.
+-->
 
 <!--
 ## Submissions
