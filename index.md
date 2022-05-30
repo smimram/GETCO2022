@@ -228,7 +228,7 @@ The tutorial consists of two parts:
   to establishing recurrence in classical dynamics, and describe advanced topics
   such as connection matrices.
 
-[slides](slides/barmak.pdf)
+[slides for part 1](slides/barmak.pdf) / [slides for part 2](slides/wanner.pdf)
 
 #### 11:15--12:15 Claudia Landi:  _Computing the matching distance of multi-parameter persistence from Morse critical values_ {#landi}
 
