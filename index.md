@@ -200,6 +200,8 @@ that such knowledge cannot be achieved.
 
 This is joint work with Éric Goubault and Sergio Rajsbaum.
 
+[slides](slides/ledent.pdf)
+
 ### Tusday 31
 
 #### 9:00 -- 10:45 Jonathan Barmak and Thomas Wanner: _From Discrete Morse Theory to Combinatorial Topological Dynamics_ {#barmak}
