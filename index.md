@@ -116,6 +116,8 @@ reveals a novel mathematical structure which is closely related to topological
 spaces. Details can be found in the preprint _[The semitopology of heterogeneous
 consensus](http://www.gabbay.org.uk/papers/semhc-draft.pdf)_.
 
+[slides](slides/gabbay.pdf)
+
 #### 13:50--14:30 T. Kahl: _The homology language of a higher-dimensional automaton_ {#kahl}
 
 Higher-dimensional automata are a very expressive combinatorial-topological
