@@ -448,6 +448,8 @@ fundamental group of a topological space from a (possibly noisy) sample of data
 points, extending the scope of existing methods in topological data analysis
 such as persistent homology.
 
+[slides](https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentPi1.html#/)
+
 #### 15:30--16:10 A. Angel and J. Borja: _Evasiveness of graph properties and graphs on 2p vertices_ {#angel}
 
 A property of graphs on $n$ vertices is said to be evasive if its query
