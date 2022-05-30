@@ -111,6 +111,8 @@ present a nice "permutahedral" model that unifies them. This model can be
 applied to construct some invariants of HDA and to show connections between
 executions of HDAs and braid groups.
 
+[slides](slides/ziemianski.pdf)
+
 #### 13:50--14:30 M. Gabbay and G. Losa: _The (semi)topology of distributed consensus_ {#gabbay}
 
 An analysis of distributed consensus under heterogeneous agreement requirements
