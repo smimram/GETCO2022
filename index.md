@@ -160,6 +160,8 @@ depends on the topology around the image of $γ$. As an extreme example, if the
 latter forms a connected component, the coequalizer exists and its underlying
 space matches with the topological coequalizer.
 
+[slides](slides/haucourt.pdf)
+
 #### 15:30--16:10 N. Boutry: _Introducing PC n-Manifolds and P-well-composedness in Partially Ordered Sets_ {#boutry}
 
 In discrete topology, discrete surfaces are well-known for their strong
