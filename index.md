@@ -67,7 +67,7 @@ The schedule is indicative and still subject to changes.
 | 12:15 -- 13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
 | 13:50--14:30   | [Gabbay-Losa](#gabbay) // [Kahl](#kahl)              | [Chocano](#chocano) // [Dey-Mrozek-Slechta](#dey)             | _social event_           | [Rajsbaum-Raventós Pujol](#raventos) // [Fernandez-Piterman](#fernandez) | [Costa-Goubault-Putot-Jaulin](#costa) // [Woukeng-Sadowski-Leskiewicz-Mrozek](#woukeng) |
 | 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45 -- 15:25 [Calk-Goubault-Malbos](#calk) // [Nishimura](#nishimura)                 |
-| 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Angel-Borja](#angel) // [Przybylski-Mrozek](#przybylski)                |                                                                                         |
+| 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Przybylski-Mrozek](#przybylski)                |                                                                                         |
 | 16:30--17:30   | [Jeremy Ledent](#ledent)                             | [Georg Struth](#struth)                                       | _social event_           |                                                                          |                                                                                         |
 | _later_ | | _cocktail reception_ | _conference dinner_ | | |
 
@@ -461,6 +461,7 @@ such as persistent homology.
 
 [slides](https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentPi1.html#/)
 
+<!--
 #### 15:30--16:10 A. Angel and J. Borja: _Evasiveness of graph properties and graphs on 2p vertices_ {#angel}
 
 A property of graphs on $n$ vertices is said to be evasive if its query
@@ -489,6 +490,7 @@ pp. 35-52.
 We also undertake the study of bounds on the minimal degree of a polynomial with
 $\mathbb{F}_p$-coefficients that calculates potential counterexamples to the
 evasiveness conjecture for graphs on $2p$-vertices.
+-->
 
 #### 15:30--16:10 M. Przybylski and M. Mrozek: _The Szymczak functor on the category of finite relations_ {#przybylski}
 
