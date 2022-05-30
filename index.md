@@ -91,9 +91,12 @@ directed homology, and path spaces, and their applications.
 
 #### 10:00--10:45 Dmitry Kozlov {#kozlov}
 
-In this short tutorial I will sketch the simplicial approach to theoretical distributed computing.
-Specifically, I will look at the notion of protocol complexes and open problems related
-to them and the standard task Weak Symmetry Breaking.
+In this short tutorial I will sketch the simplicial approach to theoretical
+distributed computing.  Specifically, I will look at the notion of protocol
+complexes and open problems related to them and the standard task Weak Symmetry
+Breaking.
+
+[slides](slides/kozlov.pdf)
 
 #### 11:15--12:15 Krzysztof Ziemiański: _Higher dimensional automata: between topology and concurrency_ {#ziemianski}
 
@@ -254,9 +257,9 @@ topological methods to study fixed points. Finite topological spaces, that are
 combinatorial objects (partially ordered sets), have the same homology and
 homotopy groups of polyhedra and can be used to reconstruct them. Therefore, the
 idea is to use finite spaces to approximate discrete dynamical systems given by
-homeomorphisms f : K → K where K is a compact polyhedron. For this purpose, we
-first discuss the notion of dynamical system in this combinatorial setting and
-then introduce a class of multivalued maps inducing morphisms in homology
+homeomorphisms $f : K → K$ where $K$ is a compact polyhedron. For this purpose,
+we first discuss the notion of dynamical system in this combinatorial setting
+and then introduce a class of multivalued maps inducing morphisms in homology
 groups. From this, we deduce a Lefschetz fixed point theorem. Finally, we use
 the theory developed to study fixed points of discrete dynamical systems defined
 on polyhedra and give some lines of future work.
@@ -275,6 +278,8 @@ show how to compute the persistence of the Conley-Morse graph, which permits one
 to capture the changing structure of a combinatorial dynamical system at
 different resolutions. Finally, we conclude by discussing directions for future
 work.
+
+[slides](slides/slechta.pdf)
 
 #### 15:30--16:10 M. Lipiński, T. Dey, M. Mrozek and R. Slechta: _Tracking Dynamical Features via Continuation and Persistence_ {#lipinski}
 
