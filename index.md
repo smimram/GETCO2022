@@ -268,6 +268,8 @@ using only the geometric patterns of the entrance values of the critical cells
 in the filtrations. This is joint work with Asilata Bapat, Robyn Brooks, Celia
 Hacker, and Barbara Mahler.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/BVA_4zJQVL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/landi.pdf)
 
 #### 13:50--14:30 P. J. Chocano: _Approximating Discrete Dynamical Systems_ {#chocano}
