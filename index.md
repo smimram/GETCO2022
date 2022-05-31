@@ -89,7 +89,7 @@ analogues of directed paths and homotopies. In the last part of the talk I will
 cover invariants of directed tpological spaces, such as component categories,
 directed homology, and path spaces, and their applications.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/0eFETscHf84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/0eFETscHf84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/fahrenberg.pdf)
 
@@ -100,7 +100,7 @@ distributed computing.  Specifically, I will look at the notion of protocol
 complexes and open problems related to them and the standard task Weak Symmetry
 Breaking.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gJiCuvkOvcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/gJiCuvkOvcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/kozlov.pdf)
 
@@ -115,7 +115,7 @@ present a nice "permutahedral" model that unifies them. This model can be
 applied to construct some invariants of HDA and to show connections between
 executions of HDAs and braid groups.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/GQYWmlb9G9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/GQYWmlb9G9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/ziemianski.pdf)
 
@@ -242,11 +242,11 @@ The tutorial consists of two parts:
   to establishing recurrence in classical dynamics, and describe advanced topics
   such as connection matrices.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/30qpGigqlDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/30qpGigqlDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides for part 1](slides/barmak.pdf)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/jzEjJcNrLjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/jzEjJcNrLjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides for part 2](slides/wanner.pdf)
 
