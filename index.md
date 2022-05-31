@@ -448,7 +448,7 @@ aspects and differences from the polygraph model. If there is time, I will also
 discuss the “smash Gray product” construction of pointed diagrammatic sets and
 its intriguing application to higher algebra.
 
-#### 13:50--14:30 S. Rajsbaum and A. Raventós Pujol: _Arrow’s Impossibility theorem: topological perspectives_ {#raventos}
+#### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
 
 
 
@@ -554,7 +554,7 @@ undirected) identities. These are reflected in the semantics, for example in
 $\mathbf{Cat}$, as the lifting properties of Grothendieck opfibrations,
 fibrations, and isofibrations.
 
-#### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
+#### 13:50--14:30 S. Rajsbaum and A. Raventós Pujol: _Arrow’s Impossibility theorem: topological perspectives_ {#raventos}
 
 Full coverage of an area of interest is a common task for an autonomous
 robot. Estimating the area explored by the robot is indeed essential for
