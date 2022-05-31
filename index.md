@@ -100,6 +100,8 @@ distributed computing.  Specifically, I will look at the notion of protocol
 complexes and open problems related to them and the standard task Weak Symmetry
 Breaking.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gJiCuvkOvcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/kozlov.pdf)
 
 #### 11:15--12:15 Krzysztof Ziemiański: _Higher dimensional automata: between topology and concurrency_ {#ziemianski}
