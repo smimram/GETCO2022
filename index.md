@@ -60,14 +60,14 @@ The schedule is indicative and still subject to changes.
 | Time           | Monday 30                                            | Tuesday 31                                                    | Wednesday 1              | Thursday 2                                                               | Friday 3                                                                                |
 |----------------|------------------------------------------------------|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |                | _Dir. top._                                          | _Dyn. sys._                                                   | _TDA_                    | _Logics_                                                                 |                                                                                         |
-| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                 | [Peter Giesl](#giesl)                                                                   |
-| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                             | [Paige North](#north)                                                                   |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                 | 9:00 -- 10:00 [Peter Giesl](#giesl)                                                                   |
+| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                             | 10:15 -- 11:15 [Paige North](#north)                                                                   |
 | 10:45 -- 11:15 | _break_                                              | _break_                                                       | _break_                  | _break_                                                                  | _break_                                                                                 |
 | 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)                  | [Claudia Landi](#landi)                                       | [Gregory Ginot](#ginot)  | [Amar Hadzihasanovic](#hadzihasanovic)                                   |                                                                                         |
 | 12:15 -- 13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
 | 13:50--14:30   | [Gabbay-Losa](#gabbay) // [Kahl](#kahl)              | [Chocano](#chocano) // [Dey-Mrozek-Slechta](#dey)             | _social event_           | [Costa-Goubault-Putot-Jaulin](#costa) // [Fernandez-Piterman](#fernandez) | [Rajsbaum-Raventós Pujol](#raventos) // [Woukeng-Sadowski-Leskiewicz-Mrozek](#woukeng) |
-| 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45 -- 15:25 [Calk-Goubault-Malbos](#calk) // [Nishimura](#nishimura)                 |
-| 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Przybylski-Mrozek](#przybylski)                |                                                                                         |
+| 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45 -- 15:25 [Nishimura](#nishimura)                 |
+| 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Calk-Goubault-Malbos](#calk) // [Przybylski-Mrozek](#przybylski)                |                                                                                         |
 | 16:30--17:30   | [Jeremy Ledent](#ledent)                             | [Georg Struth](#struth)                                       | _social event_           |                                                                          |                                                                                         |
 | _later_ | | _cocktail reception_ | _conference dinner_ | | |
 
@@ -508,6 +508,19 @@ $\mathbb{F}_p$-coefficients that calculates potential counterexamples to the
 evasiveness conjecture for graphs on $2p$-vertices.
 -->
 
+#### 15:30 -- 16:10 C. Calk, E. Goubault and P. Malbos: _Persistence and the classification of directed spaces_ {#calk}
+
+In this work, we explore links between natural homology and persistent
+homology. The former is an algebraic invariant of directed spaces, which
+constitute a semantic model of concurrent programs. The latter was developed in
+the context of topological data analysis, and extracts topological properties of
+point-cloud data sets while eliminating noise. In both approaches, the evolution
+homological properties are tracked through a sequence of inclusions of usual
+topological spaces. Exploiting this similarity, we show that natural homology
+may be considered a persistence object, and may be calculated as a colimit of
+uni-dimensional persistent homologies along traces. Finally, we suggest further
+links and avenues of future work in this direction.
+
 #### 15:30--16:10 M. Przybylski and M. Mrozek: _The Szymczak functor on the category of finite relations_ {#przybylski}
 
 The Szymczak functor is a tool used to construct Conley index for discrete-time
@@ -635,19 +648,6 @@ protocols. Furthermore, we also show that the same formula applies to establish
 the unsolvability for $k$-concurrency, a submodel of the 2-round protocol.
 
 [slides](slides/nishimura.pdf)
-
-#### 14:45 -- 15:25 C. Calk, E. Goubault and P. Malbos: _Persistence and the classification of directed spaces_ {#calk}
-
-In this work, we explore links between natural homology and persistent
-homology. The former is an algebraic invariant of directed spaces, which
-constitute a semantic model of concurrent programs. The latter was developed in
-the context of topological data analysis, and extracts topological properties of
-point-cloud data sets while eliminating noise. In both approaches, the evolution
-homological properties are tracked through a sequence of inclusions of usual
-topological spaces. Exploiting this similarity, we show that natural homology
-may be considered a persistence object, and may be calculated as a colimit of
-uni-dimensional persistent homologies along traces. Finally, we suggest further
-links and avenues of future work in this direction.
 
 ## Venue
 
