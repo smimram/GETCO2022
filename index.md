@@ -452,6 +452,8 @@ aspects and differences from the polygraph model. If there is time, I will also
 discuss the “smash Gray product” construction of pointed diagrammatic sets and
 its intriguing application to higher algebra.
 
+[slides](slides/hadzihasanovic.pdf)
+
 #### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
 
 
