@@ -60,13 +60,13 @@ The schedule is indicative and still subject to changes.
 | Time           | Monday 30                                            | Tuesday 31                                                    | Wednesday 1              | Thursday 2                                                               | Friday 3                                                                                |
 |----------------|------------------------------------------------------|---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |                | _Dir. top._                                          | _Dyn. sys._                                                   | _TDA_                    | _Logics_                                                                 |                                                                                         |
-| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                 | 9:00 -- 10:00 [Peter Giesl](#giesl)                                                                   |
-| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                             | 10:10 -- 11:10 [Paige North](#north)                                                                   |
-| 10:45 -- 11:15 | _break_                                              | _break_                                                       | _break_                  | _break_                                                                  | |
-| 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)                  | [Claudia Landi](#landi)                                       | _free discussions_ | [Amar Hadzihasanovic](#hadzihasanovic) | 11:15 -- 12:15 [Gregory Ginot](#ginot) |
-| 12:15 -- 13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
+| 9:00--9:45     | [Uli Fahrenberg](#fahrenberg)                        | [Jonathan Barmak](#barmak)                                    | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                 | 9:00--10:00 [Peter Giesl](#giesl)                                                                   |
+| 10:00--10:45   | [Dmitry Kozlov](#kozlov)                             | [Thomas Wanner](#barmak)                                      | [Magnus Botnan](#botnan) | [Eric Finster](#finster)                                                             | 10:10--11:10 [Paige North](#north)                                                                   |
+| 10:45--11:15 | _break_                                              | _break_                                                       | _break_                  | _break_                                                                  | |
+| 11:15--12:15   | [Krzysztof Ziemiański](#ziemianski)                  | [Claudia Landi](#landi)                                       | _free discussions_ | [Amar Hadzihasanovic](#hadzihasanovic) | 11:15--12:15 [Gregory Ginot](#ginot) |
+| 12:15--13:50 | _lunch_                                              | _lunch_                                                       | _lunch_                  | _lunch_                                                                  | _lunch_                                                                                 |
 | 13:50--14:30   | [Gabbay-Losa](#gabbay) // [Kahl](#kahl)              | [Chocano](#chocano) // [Dey-Mrozek-Slechta](#dey)             | _social event_           | [Costa-Goubault-Putot-Jaulin](#costa) // [Fernandez-Piterman](#fernandez) | [Rajsbaum-Raventós Pujol](#raventos) // [Woukeng-Sadowski-Leskiewicz-Mrozek](#woukeng) |
-| 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45 -- 15:25 [Nishimura](#nishimura)                 |
+| 14:30--15:30   | _breakout discussions_                               | _breakout discussions_                                        | _social event_           | _breakout discussions_                                                   | 14:45--15:25 [Nishimura](#nishimura)                 |
 | 15:30--16:10   | [Haucourt-Coursolle](#haucourt) // [Boutry](#boutry) | [Lipiński-Dey-Mrozek-Slechta](#lipinski) // [Lenzen](#lenzen) | _social event_           | [Calk-Goubault-Malbos](#calk) // [Przybylski-Mrozek](#przybylski)                |                                                                                         |
 | 16:30--17:30   | [Jeremy Ledent](#ledent)                             | [Georg Struth](#struth)                                       | _social event_           |                                                                          |                                                                                         |
 | _later_ | | _cocktail reception_ | _conference dinner_ | | |
@@ -422,16 +422,6 @@ Michael Lesnick.
 
 [full paper](https://arxiv.org/abs/2203.14289)
 
-#### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
-
-A first goal of the talk will be to highlight the relationship between level
-sets persistence theory (which are sheaf theoretic naturally) with a certain
-type of 2-parameter persistence theory; precisely an equivalence between the
-first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
-how to generalize this idea in higher parameter persistence introducing a
-specific kind of higher parameter persistence with homotopical properties. This
-is based on joint work with Nicoals Berkouk and Steve Oudot.
-
 ### Thursday 2
 
 #### 9:00 -- 10:45 Eric Finster: _Introduction to Homotopy Type Theory_ {#finster}
@@ -542,7 +532,7 @@ This is joint work with Marian Mrozek.
 
 ### Friday 3
 
-#### 9:00 -- 9:45 Peter Giesl: _Computation of Lyapunov functions and contraction metrics for dynamical systems_ {#giesl}
+#### 9:00--10:00 Peter Giesl: _Computation of Lyapunov functions and contraction metrics for dynamical systems_ {#giesl}
 
 We consider a general dynamical system, either continuous-time, given by
 solutions of an ordinary differential equation, or discrete-time, given by the
@@ -563,7 +553,7 @@ functions, compare them and illustrate them with examples.
 
 [slides](slides/giesl.pdf)
 
-#### 10:00--10:45 Paige North: _Directed homotopy type theory_ {#north}
+#### 10:10--11:10 Paige North: _Directed homotopy type theory_ {#north}
 
 In this talk, I will describe the development of a directed homotopy type
 theory. The aim is to capture (higher) categories and directed topological
@@ -580,6 +570,16 @@ directed identities, backward along directed identities, and along (usual,
 undirected) identities. These are reflected in the semantics, for example in
 $\mathbf{Cat}$, as the lifting properties of Grothendieck opfibrations,
 fibrations, and isofibrations.
+
+#### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
+
+A first goal of the talk will be to highlight the relationship between level
+sets persistence theory (which are sheaf theoretic naturally) with a certain
+type of 2-parameter persistence theory; precisely an equivalence between the
+first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
+how to generalize this idea in higher parameter persistence introducing a
+specific kind of higher parameter persistence with homotopical properties. This
+is based on joint work with Nicoals Berkouk and Steve Oudot.
 
 #### 13:50--14:30 S. Rajsbaum and A. Raventós Pujol: _Arrow’s Impossibility theorem: topological perspectives_ {#raventos}
 
