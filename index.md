@@ -145,6 +145,8 @@ coproduct of HDAs, which corresponds to the nondeterministic sum of concurrent
 systems. Using software, the homology language can be computed for HDAs modeling
 shared-variable systems described in the Promela language.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/5YJ_54O8FKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### 15:30--16:10 E. Haucourt and P.-Y. Coursolle: _Non-existing and ill-behaved coequalizers of locally ordered spaces_ {#haucourt}
 
 Categories of locally ordered spaces are especially well-adapted to the
@@ -182,6 +184,8 @@ the definition of discrete surfaces, to allow us to introduce poset-based
 connected manifolds (shortly PC $n$-manifolds or $n$-PCMs), the extension of
 stellar/combinatorial manifolds with boundaries but in partially ordered
 sets. Some strong properties of this border and of PCMs are provided.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/8PncmBnPC3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 16:30--17:30 Jeremy Ledent: _Simplicial Models for Multi-Agent Epistemic Logic_ {#ledent}
 
@@ -422,6 +426,8 @@ setting. In this talk, I will discuss some of these. The talk will be based on a
 recent survey on multiparameter persistent homology that I have coauthored with
 Michael Lesnick.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/QeTJXyDg9no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [full paper](https://arxiv.org/abs/2203.14289)
 
 ### Thursday 2
@@ -438,6 +444,8 @@ in type theory and has led to the introduction of many new ideas, both
 meta-theoretical, for example in the form of previously unknown models, as well
 as practical in the form of new computational principles which have since then
 been incorporated into modern proof assistants.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/rkjkzMic0fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/finster.pdf)
 
