@@ -339,6 +339,8 @@ level given by a data or a resolution). Moreover, we present the construction in
 the spirit of persistent homology. In particular, we show that the continuation
 is a special case of the persistence of the Conley index.
 
+[slides](slides/lipinski.pdf)
+
 #### 15:30--16:10 F. Lenzen: _Efficient computation of two-parameter persistent cohomology_ {#lenzen} 
 
 Among the many developments that have led to efficient algorithms in
