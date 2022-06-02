@@ -439,6 +439,8 @@ meta-theoretical, for example in the form of previously unknown models, as well
 as practical in the form of new computational principles which have since then
 been incorporated into modern proof assistants.
 
+[slides](slides/finster.pdf)
+
 #### 11:15--12:15 Amar Hadzihasanovic: _Diagrammatic sets and homotopically sound rewriting_ {#hadzihasanovic}
 
 In the polygraph approach to rewriting, the fundamental structures of rewriting
