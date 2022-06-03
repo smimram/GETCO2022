@@ -50,6 +50,9 @@ page](https://easychair.org/conferences/?conf=getco2022).
 There is no imposed format.
 -->
 
+**Please [fill in this poll](https://forms.gle/wCJdrLhKdPwpxnA78) if you are
+interested in participating in next GETCO (2023).**
+
 ## Schedule
 
 The conference takes place from Monday, April 30th to Friday, June 3rd. All
