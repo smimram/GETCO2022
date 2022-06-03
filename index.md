@@ -585,6 +585,8 @@ undirected) identities. These are reflected in the semantics, for example in
 $\mathbf{Cat}$, as the lifting properties of Grothendieck opfibrations,
 fibrations, and isofibrations.
 
+[slides](slides/north.pdf)
+
 #### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
 
 A first goal of the talk will be to highlight the relationship between level
