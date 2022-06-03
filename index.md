@@ -407,6 +407,8 @@ Cameron Calk, James Cranch, Simon Doherty, Brijesh Dongol, Uli Fahrenberg, Ian
 Hayes, Christian Johansen, Philippe Malbos, Damien Pous and Krzysztof Ziemianski
 for their collaboration.
 
+[slides](slides/struth.pdf)
+
 ### Wednesday 1
 
 #### 9:00 -- 10:45 Magnus Botnan: _A mini-survey of multiparameter persistent homology_ {#botnan}
