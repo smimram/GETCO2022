@@ -299,6 +299,8 @@ groups. From this, we deduce a Lefschetz fixed point theorem. Finally, we use
 the theory developed to study fixed points of discrete dynamical systems defined
 on polyhedra and give some lines of future work.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/Vxa9eYVmOpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/chocano.pdf)
 
 #### 13:50--14:30 T. Dey, M. Mrozek and R. Slechta: _Capturing Changes in Dynamical Systems with Persistent Homology_ {#dey}
@@ -348,6 +350,8 @@ and get hints where the set is passing through a bifurcation (at least on the
 level given by a data or a resolution). Moreover, we present the construction in
 the spirit of persistent homology. In particular, we show that the continuation
 is a special case of the persistence of the Conley index.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/m4cmfZ2UZgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/lipinski.pdf)
 
@@ -412,6 +416,8 @@ This talk is based on joint work with many colleagues I would like to thank
 Cameron Calk, James Cranch, Simon Doherty, Brijesh Dongol, Uli Fahrenberg, Ian
 Hayes, Christian Johansen, Philippe Malbos, Damien Pous and Krzysztof Ziemianski
 for their collaboration.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/w5PojriJ81E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/struth.pdf)
 
