@@ -126,6 +126,8 @@ reveals a novel mathematical structure which is closely related to topological
 spaces. Details can be found in the preprint _[The semitopology of heterogeneous
 consensus](http://www.gabbay.org.uk/papers/semhc-draft.pdf)_.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/rhXjGByVAeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/gabbay.pdf)
 
 #### 13:50--14:30 T. Kahl: _The homology language of a higher-dimensional automaton_ {#kahl}
@@ -170,6 +172,8 @@ depends on the topology around the image of $γ$. As an extreme example, if the
 latter forms a connected component, the coequalizer exists and its underlying
 space matches with the topological coequalizer.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/ELgZag1OTsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/haucourt.pdf)
 
 #### 15:30--16:10 N. Boutry: _Introducing PC n-Manifolds and P-well-composedness in Partially Ordered Sets_ {#boutry}
@@ -209,6 +213,8 @@ knowledge that the processes should acquire in order to solve a task; and argue
 that such knowledge cannot be achieved.
 
 This is joint work with Éric Goubault and Sergio Rajsbaum.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/rlRcfESeJVo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](slides/ledent.pdf)
 
