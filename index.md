@@ -558,6 +558,8 @@ dynamical systems arise naturally from a dynamics given by the data.
 
 This is joint work with Marian Mrozek.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/BNElBwI2vPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Friday 3
 
 #### 9:00--10:00 Peter Giesl: _Computation of Lyapunov functions and contraction metrics for dynamical systems_ {#giesl}
