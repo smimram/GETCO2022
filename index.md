@@ -321,6 +321,8 @@ to capture the changing structure of a combinatorial dynamical system at
 different resolutions. Finally, we conclude by discussing directions for future
 work.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/3a7OLR8CcEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/slechta.pdf)
 
 #### 15:30--16:10 M. Lipiński, T. Dey, M. Mrozek and R. Slechta: _Tracking Dynamical Features via Continuation and Persistence_ {#lipinski}
@@ -495,6 +497,8 @@ presentations.  Our technique provides a tool to infer properties of the
 fundamental group of a topological space from a (possibly noisy) sample of data
 points, extending the scope of existing methods in topological data analysis
 such as persistent homology.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/E7Ean-ao5IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [slides](https://ximenafernandez.github.io/reveal.js-presentations/slides/PersistentPi1.html#/)
 
