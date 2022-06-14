@@ -726,7 +726,8 @@ Paris, starting from 19h30.
 ## Publication
 
 A special issue of a journal will be dedicated to selected papers from the
-conference. The deadline is the **31st of January 2023**.
+conference. The deadline is the **31st of January 2023**. Submissions can be
+made at <https://www.springer.com/journal/41468/updates/23158246>.
 
 > The last two decades have witnessed a fruitful interplay between certain
 > qualitative ideas and methods from geometric and topological areas on one side
