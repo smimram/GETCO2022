@@ -483,11 +483,13 @@ aspects and differences from the polygraph model. If there is time, I will also
 discuss the “smash Gray product” construction of pointed diagrammatic sets and
 its intriguing application to higher algebra.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/UlVZPiJ87kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/hadzihasanovic.pdf)
 
 #### 13:50--14:30 M. L. Costa Vianna, E. Goubault, S. Putot and L. Jaulin: _A Geometric Approach to the Coverage Measure of the Area Explored by a Robot_ {#costa}
 
-
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/jxCmZ5reFr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 13:50--14:30 X. Fernandez and K. Piterman: _The persistent fundamental group of point clouds_ {#fernandez}
 
@@ -545,6 +547,8 @@ topological spaces. Exploiting this similarity, we show that natural homology
 may be considered a persistence object, and may be calculated as a colimit of
 uni-dimensional persistent homologies along traces. Finally, we suggest further
 links and avenues of future work in this direction.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/kblxlrltQaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 15:30--16:10 M. Przybylski and M. Mrozek: _The Szymczak functor on the category of finite relations_ {#przybylski}
 
@@ -608,6 +612,8 @@ undirected) identities. These are reflected in the semantics, for example in
 $\mathbf{Cat}$, as the lifting properties of Grothendieck opfibrations,
 fibrations, and isofibrations.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/iaYOoPRK60w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/north.pdf)
 
 #### 11:15--12:15 Gregory Ginot:  _Homotopical and sheaf theoretic point of view on multi-parameter persistence_ {#ginot}
@@ -619,6 +625,8 @@ first one and Mayer-Vietoris systems in 2-parameter theoy. Then we will explain
 how to generalize this idea in higher parameter persistence introducing a
 specific kind of higher parameter persistence with homotopical properties. This
 is based on joint work with Nicoals Berkouk and Steve Oudot.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/87f8Dri4SL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 13:50--14:30 S. Rajsbaum and A. Raventós Pujol: _Arrow’s Impossibility theorem: topological perspectives_ {#raventos}
 
@@ -664,6 +672,8 @@ proof of the existence of periodic orbits in some dynamical systems. Some
 examples of computation will be given at the end of the presentation for the
 case of 2-D dynamical systems such as the Van der Pol system for some fixed
 parameters and some sampled datasets.
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/3bXmrVlYTts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 14:45 -- 15:25 S. Nishimura: _Proving Unsolvability of Set Agreement Task with Epistemic mu-Calculus_ {#nishimura}
 
