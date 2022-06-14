@@ -592,6 +592,8 @@ particular, I will present computational methods using meshfree collocation with
 Radial Basis Functions (RBF) as well as Continuous Piecewise Affine (CPA)
 functions, compare them and illustrate them with examples.
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/Y9j7-gocbOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [slides](slides/giesl.pdf)
 
 #### 10:10--11:10 Paige North: _Directed homotopy type theory_ {#north}
