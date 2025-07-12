@@ -1,0 +1,32 @@
+name: Build
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Install required packages
+      run: sudo apt-get -y install pandoc
+    - name: Build
+      run: |
+        make
+        mkdir _site
+        cp -r *.html *.css slides _site
+    - name: Upload website artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: _site
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
